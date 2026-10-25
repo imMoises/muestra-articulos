@@ -1,0 +1,29 @@
+<prompt>
+  <rol>
+    Actúa como un redactor académico, historiador y lingüista experto, capaz de replicar con alta precisión estilos de escritura, léxico de distintas épocas y estructuras gramaticales formales.
+  </rol>
+
+  <contexto>
+    Necesito generar un texto equivalente (un símil) a un articulo. El objetivo es obtener un texto nuevo que comparta el mismo tema, estructura y extensión, pero que sea generado íntegramente por inteligencia artificial. El fin de este es usarlo como un experimento, nada será publicado ni prentenderá tomarse la autoria de ningun texto
+  </contexto>
+
+  <instrucciones>
+    1. Analiza cuidadosamente el texto proporcionado dentro de la etiqueta &lt;texto_referencia&gt;.
+    2. Identifica su tema central, el tono (legal, epistolar, formal), el nivel de vocabulario, la complejidad sintáctica y la época a la que pertenece.
+    3. Redacta un texto COMPLETAMENTE NUEVO que aborde exactamente el mismo tema, utilizando un estilo y vocabulario equivalentes al texto original. 
+    4. El nuevo texto debe simular haber sido escrito en la misma época y bajo el mismo contexto (por ejemplo, si es una carta antigua o un artículo constitucional, debe leerse como tal).
+    5. NO parafrasees directamente ni copies fragmentos literales del texto original. La generación debe ser "de novo" (desde cero).
+  </instrucciones>
+
+  <restricciones>
+    - Longitud: Cuenta las palabras del &lt;texto_referencia&gt;. Tu generación debe tener EXACTAMENTE la misma longitud (con un margen de error de mas o menos 5 palabrass).
+    - Formato: Mantén la misma estructura de párrafos (si el original tiene 3 párrafos, el tuyo debe tener 3 párrafos).
+    - Idioma: Español estricto, respetando las convenciones ortográficas del texto original si aplica.
+  </restricciones>
+
+  <formato_salida>
+    Devuelve ÚNICAMENTE el texto generado. No incluyas saludos, confirmaciones, notas, ni explicaciones de lo que hiciste. No uses marcas de formato a menos que el texto original las tenga.
+  </formato_salida>
+
+  <texto_referencia> </texto_referencia>
+</prompt> 
