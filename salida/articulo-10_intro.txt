@@ -1,0 +1,75 @@
+Ciclo de Vida, Manifiesto Agile, Programación Extrema, XP.
+
+Para el Instituto de Ingeniería de Software (2010) o SEI (Software Engineering Institute), los métodos agiles son tan robustos y pueden ser utilizados
+
+en vez de pensar de esta forma es mejor definir un enfoque de Ingenieria de Software que sea agil.
+
+en soluciones tan complejas y dinámicas como las que necesita el Departamento de Defensa de los Estados Unidos. Hoy en día es cada vez más frecuente encontrar desarrollos de software realizados con Métodos Agiles, algunos de ellos buscando procesos más sencillos, rápidos y flexibles, y otros buscando una excusa para generar el mínimo de documentación posible. La Programación Extrema o XP (Extreme Programming) pertenece a la familia de las metodologías agiles, y proporciona una serie de reglas y principios, útiles y sencillos de implementar.
+
+La Programación Extrema o XP (Extreme Programming) pertenece a la familia de las metodologías agiles. XP es un enfoque de desarrollo de sistemas que acepta lo que se conoce como buenas prácticas en esta área y las lleva al extremo (Kendall & Kendall, 2005, pág. 94). Al introducirnos en esta metodología cabe resaltar la importancia del cliente, las pruebas, la refactorización , la simplicidad, la propiedad colectiva del código que se ven reflejadas en las cuatro prácticas esenciales de XP:
+
+Este artículo trata de mostrar cómo se pueden aprovechar las bondades ofrecidas por XP, en el desarrollo de un aplicativo que permite almacenar y tabular los resultados de diferentes encuestas realizadas por el proceso de autoevaluación, que vienen llevando los programas académicos de la Universidad Francisco de Paula Santander de Ocaña. El documento se encuentra dividido en dos secciones; la primera expone los fundamentos teóricos sobre los cuales se rige XP y la segunda sección describe como esos fundamentos fueron aplicados en el desarrollo del aplicativo.
+
+Entregas limitadas o pequeñas: Consiste en realizar entregas parciales de módulos del sistema. Esto no quiere decir que las tareas se dejen inconclusas; las funcionalidades quedan probadas, estables y completas, esta práctica lo que busca es mantener al cliente satisfecho.
+
+Semana de trabajo de 40 horas: Los equipos de desarrollo de XP trabajan de manera intensa durante una semana típica de 40 horas. No admite horas extras, ya que lo que se busca es utilizar al máximo la energía de los desarrolladores.
+
+Desarrollo
+
+Cliente en el sitio: Esta práctica insiste en que el cliente debe hacer parte fundamental y activa del grupo de trabajo y debe estar presente durante todo el proceso de desarrollo.
+
+Características Generales de la Programación Extrema o XP (Extreme Programming)
+
+Ingenierías
+
+El origen de los Procesos o Metodologías Agiles se remonta a Febrero del 2001, en las montañas de Utah, cuando 17 expertos en la industria del Software, cansados de tener problemas con algunas de las metodologías basadas en el Ciclo de Vida Tradicional, en donde el empleo de estrategias de Análisis y Diseño estaban altamente burocratizadas (Bennett, 2006), desicidieron establecer unos principios y valores, adecuados al desarrollo de software para medianas y pequeñas empresas, donde los procesos no se dan a gran escala, de manera que las metodologías ágiles ofrecen un proceso de desarrollo rápido e incremental que se convirtio en alternativa a los procesos de desarrollo de software tradicionales (Highsmith, 2001). Con respecto a esta separación de criterios, Pressman (2010) aconseja no ser excluyente entre procesos agiles e Ingenieria de Software,
+
+Programación en Pareja: Con esto se busca aumentar la calidad del código, ahorrar tiempo, estimula la creatividad y la reducción de código fuente (Kendall & Kendall, 2005, pág. 170).
+
+Etapas de Desarrollo de XP
+
+La programación extrema engloba un conjunto de reglas (Wells, 1999) que se ejecutan dentro de cuatro actividades estructurales: planeación, diseño, codificación y pruebas. La Figura 1 muestra cada una de las actividades de XP, y resalta las tareas claves de cada una.
+
+Proceso por el cual se cambia un software de forma que mejore la estructura interna, pero que no altere el comportamiento externo del código (Pressman, 2010, pág. 63)
+
+Ingenio / Vol. 5 No 1 / ISSN 2011-642X
+
+Revist a
+
+clases con que se relaciona o que colaboran con ella. Las tarjetas CRC son el único trabajo de diseño que se genera como parte del proceso de XP (Holmes & T. Joyce, 2000).
+
+Desarrollo
+
+Se lleva a cabo la programación en pareja, la unidad de pruebas y la integración del código (Kendall & Kendall, 2005). Durante esta etapa se espera la disponibilidad del cliente para que éste pueda resolver cualquier duda que se presente durante una jornada de trabajo.
+
+Pruebas
+
+Figura 1. Etapas de Desarrollo de XP (Pressman, 2010).
+
+Cada tarea que se identificó con las historias de usuario, representa una característica distinta del sistema y se realiza una prueba de unidad por cada una de ellas, existen pruebas unitarias las cuales son diseñadas para probar cada uno de los métodos y clases, dichas pruebas son realizadas por los programadores (SommerVille, 2005).
+
+Planeación
+
+Esta actividad comienza escuchando a los clientes, para entender el contexto del negocio y definir las características principales y funcionalidad que se requiere (Pressman, 2010, pág. 62), estas características se transforman en requerimientos del negocio que se especifican mediante Historias de Usuario; las cuales recogen la interacción hablada entre desarrolladores y usuarios (Wells, user stories, 1999). Una vez hechas las Historias de Usuario, el equipo de desarrollo las divide en tareas, estima el esfuerzo, recursos requeridos para su implementación, se genera el plan de entregas, las iteraciones, la rotación de parejas y las reuniones diarias (SommerVille, 2005).
+
+Desarrollo Caso de Estudio
+
+Dado el volumen de información que solicita el proceso de autoevaluación a cada programa académico de la Universidad; en donde se necesitaba aplicar y tabular los resultados de diferentes encuestas realizadas a 18 Programas Académicos, con una muestra de estudiantes activos de 700, 43 Administrativos, 126 Docentes y Egresados. Los resultados obtenidos permiten generar un diagnóstico sobre la percepción que se tiene respecto a factores que fomentan el mejoramiento continuo, la calidad de los programas académicos. El proceso de autoevaluación es aplicado de conformidad con el modelo propuesto por el Consejo Nacional de Acreditación (CNA), el cual establece que una vez identificadas las falencias, se deben consolidar en un documento las acciones que eliminen o disminuyan las debilidades mediante la creación de un plan de mejora.
+
+Ingenierías
+
+Diseño
+
+Kendall & Kendall (2005) lo definen como la etapa en donde son evaluadas las historias de usuario por el equipo del proyecto para dividirlas en tareas, cada tarea representa una característica distinta del sistema y se puede diseñar una prueba de unidad que verifique cada tarea (SommerVille, 2005), estas tareas se representan por medio de las tarjetas CRC (Clase-Responsabilidad-Colaborador). Las tarjetas CRC identifican y organizan las clases bajo el paradigma orientado a objetos (lo que incluye asignación de responsabilidades), cada tarjeta contiene el nombre de la clase (que representa una o más historias de usuario), una descripción de las responsabilidades o métodos asociados con la clase, así como la lista de las
+
+Según las características del software solicitado, dada la premura de tiempo en que se debería construir, según los requisitos de alto nivel suministrados y con el fin de aprovechar los beneficios que proporciona los procesos de construcción rápida de software, se tomó la
+
+cambio y comprometidos con la realización pruebas unitarias al código. Desde el punto de vista de Probador, deben definir en conjunto con el cliente las pruebas funcionales necesarias para validar las entregas programadas en una iteración.
+
+decisión de utilizar un modelo de desarrollo de tipo ágil sobre los modelos tradicionales; dado que los métodos agiles permiten la implementación del software con el mínimo de documentación, en el menor tiempo posible y teniendo al cambio como una constante.
+
+El Director del Departamento de Sistemas e Informática, fue el encargado de los roles Entrenador, Consultor y Jefe. Como Entrenador, debe de estar pendiente de los detalles y de motivar, controlar y acompañar a los programadores en su tarea. Como Consultor, debe estar disponible a resolver problemas de tipo técnico, a proponer mejoras de rendimiento dentro del código, mantener la calidad de las funcionalidades y hacer respetar el diseño planteado.
+
+Para el Instituto de Ingeniería de Software (2010) o SEI (Software Engineering Institute), sugiere que dentro de la planeación de un proyecto de desarrollo de Software, se debe estimar los recursos humanos, tecnológicos y las herramientas a utilizar; no todas las aplicaciones necesitan el mismo modelo de desarrollo, depende de los requisitos que se determinen en la etapa inicial y de la rapidez y complejidad de las funcionalidades, es por eso que no todos los ciclos de vida de desarrollo de software se ajustan a todas las necesidades de proyectos diferentes, la metodología a seguir debe permitir realizar correcciones sobre el alcance, las necesidades, restricciones y costos del proyecto.
+
+Después de varias reuniones, de dos (2) horas, durante una semana, entre el Cliente, el Jefe y los Programadores se definieron las Historias de Usuario, a ellas se les asigno su respectiva prioridad, en total se especificaron dieciocho (18) Historias de Usuario, las cuales se agruparon en los módulos de configuración, captura y reportes; dentro de configuración se encuesta la gestión de usuarios del sistema y de los procesos de autoevaluación, en el módulo de captura se realiza todo el proceso de registro de las encuestas realizadas (estudiante, docente, egresado y administrativo), y en reportes se puede observar los consolidados, por todos los programas, y por cada uno de los programas, agrupados en las cuatro categorías de encuestados; los valores son mostrados en cuatro tipos diferentes de reportes, promedio obtenido por ítem (la media obtenida por cada una de las preguntas), promedio obtenido por factor (la media de las respuesta de cada encuestado agrupados por factor), porcentaje por ítem (porcentaje por cada una de las respuestas), valor general (calificación total por promedio para cada encuestado).

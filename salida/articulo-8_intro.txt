@@ -1,0 +1,239 @@
+El presente artículo expone parte de los resultados obtenidos en una investigación más
+
+amplia realizada en la Escuela de Ingeniería Civil de la Universidad de Costa Rica. Dicha
+
+investigación se efectuó con miras a la actualización del perfil de egreso de la Licenciatura
+
+en Ingeniería Civil y del plan de estudios como tal. Abarcó la capacitación docente en temas
+
+relacionados con la enseñanza superior y con los principios teóricos de la construcción de
+
+conocimiento que se deben propiciar en la universidad. La investigación se realizó entre
+
+junio de 2016 y agosto de 2018, contempló una metodología que concatenó diferentes
+
+herramientas investigativas para recopilar información relevante desde las diferentes aristas:
+
+la academia, el mercado laboral, la realidad de la sociedad costarricense, los referentes
+
+internacionales y los actores clave implicados en este campo disciplinar (para este último
+
+punto se construyó un mapeo de actores, en el que se priorizó la consulta directa de quienes
+
+la comisión docente, nombrada para el proceso, determinó como más importantes).
+
+Al iniciar el proceso para conocer el objeto de estudio de la carrera se evidenció la
+
+poca información escrita, científica y publicada, que existe al respecto, por lo que se
+
+consideró relevante la realización de un esfuerzo adicional para plasmar los resultados
+
+obtenidos en la investigación y sentar una base concreta acerca de la epistemología de la
+
+disciplina en Costa Rica. Este esfuerzo contribuyó a la profundización de la reflexión, en
+
+especial, enfocada a los procesos de investigación que se llevan a cabo en el país.
+
+En este artículo, primero se presentan los postulados teóricos que permiten definir una
+
+epistemología en la ingeniería, necesarios para la revisión curricular de la carrera de
+
+Licenciatura en Ingeniería Civil de la Universidad de Costa Rica. Posteriormente, se explica
+
+la metodología abordada, la cual contempló herramientas cuantitativas y cualitativas para la
+
+obtención de los datos necesarios para el análisis y construcción de conocimiento en el área.
+
+Este abordaje mixto enriqueció la pesquisa, y propició un abordaje más integral de la
+
+realidad del desarrollo de la investigación en la disciplina. Esta estrategia multimétodo fue
+
+seleccionada por las personas autoras con el fin de tener una combinación de bondades y
+
+que se propiciara la triangulación metodológica. Tal y como establece Arias (2000, p. 04) la
+
+triangulación es el uso de múltiples métodos en el estudio de un mismo objeto, y conviene
+
+concebirla contemplando variedad de datos, personas investigadoras y teorías.
+
+Seguidamente, se presentan los resultados de la investigación. Se hace énfasis en las
+
+definiciones propias de la disciplina y sus áreas, resultado de los procesos de consulta y de
+
+____________________________________________________________Volumen 19 Número 1 (Enero-Abril), ISSN 1409-4703
+
+Revista Electrónica “Actualidades Investigativas en Educación”
+
+la construcción colectiva. Adicionalmente, se exponen los cambios en las áreas y temáticas
+
+que se investigan en la actualidad, y los retos que la disciplina requiere trabajar a futuro
+
+respecto de la realidad social y cultural en la que están inmersas la carrera y la Universidad.
+
+2. Referentes teóricos
+
+Para hablar de epistemología se requiere de un abordaje profundo y riguroso de la
+
+disciplina, el cual implica empezar a cuestionar todo lo que se conoce y se hace en el campo
+
+de acción de la carrera para abrir las puertas a nuevos retos y cambios de la disciplina en un
+
+contexto que siempre es cambiante. Tal como comenta Vasilachis (2009, p.03):
+
+La epistemología se interroga, entre otros, acerca de: a) cómo la realidad puede ser
+
+conocida, b) la relación entre quién conoce y aquello que es conocido, c) las
+
+características, los fundamentos, los presupuestos que orientan el proceso de
+
+conocimiento y la obtención de los resultados, y d) la posibilidad de que ese proceso
+
+pueda ser compartido y reiterado por otros a fin de evaluar la calidad de la
+
+investigación y la confiabilidad de esos resultados.
+
+Por ello, el punto de partida del proceso de investigación, asociado a la reforma
+
+curricular de la carrera, arrancó con un análisis profundo de lo que existe en cuanto a
+
+definiciones de la disciplina, tanto a nivel nacional como internacional, para analizarlo de
+
+acuerdo con la realidad de la carrera desde la Universidad de Costa Rica y de la Escuela de
+
+Ingeniería Civil. Además, se aprovechó para revisar las reflexiones que otras personas
+
+autoras han hecho al respecto. Entre quienes ha abordado ampliamente el tema del estatus
+
+epistemológico de la Ingeniería se encuentran artículos escritos por personas educadoras,
+
+filósofas y algunas ingenieras (Bulleit, 2012; Coronado, 2002; Covarrubias, 1998; Dias, 2013;
+
+Figueiredo, 2008; Galland, 2011; Herrera, 2016; Koen, 2003; Poser, 1998). En el caso
+
+particular de Costa Rica, existen muy pocos registros formales de estudios en la materia,
+
+más bien, se han centrado en documentos propios de la Universidad de Costa Rica donde se
+
+analiza el tema para la justificación curricular. Uno de los autores que más rigurosamente ha
+
+escrito sobre epistemología en ingeniería en Costa Rica ha sido Herrera (2016), quien ha
+
+presentado artículos donde cuenta la historia del desarrollo de la profesión en el país; sin
+
+embargo, este autor no es propio de la ingeniería civil, sino que aborda el tema de forma
+
+general para la ingeniería, y hace énfasis en las diferencias entre tecnología e ingeniería.
+
+____________________________________________________________Volumen 19 Número 1 (Enero-Abril), ISSN 1409-4703
+
+Revista Electrónica “Actualidades Investigativas en Educación”
+
+Hablar de epistemología tiene una trascendencia importante para la actualización
+
+curricular en una carrera, pues contribuye a que las personas encargadas de ella aclaren
+
+cuál es su objeto de estudio y cómo interactúan los seres humanos a través de ella. La
+
+reflexión sobre la reforma curricular del Programa de Formación en Ingeniería Civil inicia
+
+reflexionando sobre el objeto de estudio al que responde y cómo este ha evolucionado en el
+
+tiempo. La evolución de la disciplina de ingeniería civil nace, principalmente, de la
+
+investigación que se realiza en las universidades, donde más se invierten recursos con este
+
+fin; no obstante, en el caso particular de la ingeniería civil, los cambios también se forjan
+
+desde las empresas públicas y privadas.
+
+En Costa Rica, el Colegio Federado de Ingenieros y de Arquitectos, encargado de velar
+
+por el adecuado desarrollo de la práctica profesional, también tiene participación en la
+
+creación de conocimiento en ingenieria. Como indica Vasilachis (1992, p. 03), la reflexión
+
+epistemológica está presente en la actividad cotidiana de investigación —aunque la persona
+
+que investiga la lleve a cabo sin darle ese nombre— al plantearse interrogantes acerca de
+
+las características del objeto o de los fenómenos que analiza. Es por ello que uno de los
+
+puntos de partida de este proceso de investigación fue indagar qué novedades están
+
+surgiendo en los diferentes ámbitos laborares de la disciplina. Como se discutirá en la
+
+metodología, esto se realizó mediante un abordaje cualitativo, utilizando como instrumento la
+
+entrevista a profundidad para personas investigadoras y con un abordaje cuantitativo
+
+mediante encuestas a personas empleadoras.
+
+Al plantearse la tarea de un estudio epistemológico hay que tener claro que “la
+
+realidad de las diferentes prácticas científicas reside en su distinción, cada una tiene su
+
+propio objeto, su teoría, sus métodos y su desarrollo desigual” (Lecourt, 1985, citado por
+
+Vasilachis, 1992, p.14). Esta realidad también enmarca el desarrollo de la Ingeniería Civil en
+
+la Universidad de Costa Rica, pues dentro de esa misma disciplina coexisten diferentes
+
+áreas, y cada una de ellas tiene su propio objeto de estudio. Aunque estos objetivos se
+
+entrelazan, quienes se dedican a la ciencia y la investigación por lo general tratan de
+
+visualizarlos individualmente. Los paradigmas que rigen la investigación en cada área
+
+pueden ser distintos o similares, pero, en general, surgen de los aportes teórico–
+
+metodológicos más relevantes en el campo y de las necesidades que la sociedad va
+
+planteando como retos a la disciplina.
+
+____________________________________________________________Volumen 19 Número 1 (Enero-Abril), ISSN 1409-4703
+
+Revista Electrónica “Actualidades Investigativas en Educación”
+
+2.1 Ingeniería, ciencias básicas, ciencias de la ingeniería y tecnologías
+
+El primer punto de discusión en el análisis epistemológico de este proceso radica en
+
+distinguir a cuál ámbito del conocimiento pertenece esta disciplina. Existe un consenso entre
+
+las diferentes personas autoras consultadas respecto a que la ingeniería es un campo del
+
+conocimiento de difícil delimitación. La ingeniería reúne otras áreas del conocimiento, tales
+
+como ciencias básicas, ciencias aplicadas, ciencias de la ingeniería y ciencias de la
+
+tecnología aplicada, y las utiliza para aplicarlas en la resolución de problemas. En este
+
+punto, se hace necesario un razonamiento más amplio sobre esta cuestión para contribuir a
+
+clarificar el alcance de la ingeniería.
+
+Para empezar, Dias (2013, p.23) explica que “una clara distinción entre el conocimiento
+
+puramente científico y el ingenieril es que el primero es utilizado para explicaciones causales
+
+que permiten una mejor comprensión del mundo, generando así información etiológica,
+
+mientras que el otro genera información teleológica”. Cuando una persona ingeniera piensa
+
+en la definición de ingeniería, una de las primeras ideas que surge es la resolución práctica
+
+de problemas, para ello aplica una serie de conocimientos de ciencias básicas y aplicadas,
+
+ayudada por las herramientas que el desarrollo tecnológico pone a su disposición, lo que le
+
+permite tomar decisiones sobre una solución razonable al problema. Se hace hincapié en lo
+
+factible y razonable porque, a diferencia de otras disciplinas, la persona profesional en
+
+ingeniería suele partir de la premisa de que la solución que busca no es perfecta ni única,
+
+pero es realizable con los recursos con los que cuenta, y espera que el desempeño de dicha
+
+solución sea aceptable dentro de los parámetros de seguridad y durabilidad que seleccionó
+
+para el caso.

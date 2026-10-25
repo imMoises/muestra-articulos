@@ -1,0 +1,3 @@
+# Dependencias de extraer_intro.py
+# Instalar con: pip install -r requirements.txt
+pymupdf>=1.24

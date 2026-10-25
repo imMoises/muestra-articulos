@@ -1,0 +1,95 @@
+ABSTRACT: In the present work the study of the structural and magnetic properties of the powder composition of Gd0.257-xTbxFe0.743 with x = 0, 0.1285, 0.257, prepared by Mechanical Alloying (MA) in argon atmosphere during 72 hours using a high energy planetary mill is reported. The structural characterization was performed by means of X-ray diﬀractometry (XRD), for the magnetic characterization Mossbauer
+
+aGalvis, M., Rojas, Y., Oyola, D., Bustos, H. & Mart´ınez, H. (2016). Propiedades estructurales y magn´eticas de aleaciones Gd0.257−xTbxFe0.743 obtenidas por aleamiento mec´anico. Revista de la Facultad de Ciencias, 6 (1), 83–92. DOI: 10.15446/rev.fac.cienc.v6n1.61394
+
+bDepartamento de F´ısica, Universidad del Tolima, Barrio Santa Helena Parte Alta | C´odigo Postal Nro. 730006299 Ibagu´e - Tolima - Colombia. Autor para correspondencia: mauricio.galvisp@udea.edu.co.
+
+MAURICIO GALVIS, YEBRAIL ROJAS, DAGOBERTO OYOLA, HUMBERTO BUSTOS, HUGO MART´INEZ spectroscopy was used, the hysteresis cycles of the samples were obtained using the VSM (vibration sample magnetometry) of a PPMS (Physical Property Measurement System). The α-Fe phase is presented for all x by a characteristic peak whose intensity remains slightly constant, however, a decrease in the crystallite size of the α-Fe phase is observed, this result is correlated with an increase of its width when is replaced the Gd by the Tb. The results of the Mossbauer spectra at room temperature indicate that the system exhibits a ferromagnetic behavior for all compositions and the hysteresis cycles show that it exhibits magnetically semi-hard behavior.
+
+KEYWORDS: mechanical alloying; X-ray diﬀraction; Mossbauer spectroscopy; GdTbFe System.
+
+1. INTRODUCCI´ON
+
+Los sistemas de almacenamiento de car´acter Magneto-´optico (MO) presentan gran ventaja sobre los de car´acter magn´etico, como lo menciona S´anchez (2007); su grabaci´on, lectura y borrado se basan en un proceso termomagn´etico, el cual utiliza un haz proveniente de un l´aser de estado s´olido para modiﬁcar la temperatura de Curie (Tc) del material, lo que produce que el campo coercitivo del mismo desaparezca logrando orientar sus dominios magn´eticos de manera vertical en presencia de un campo externo. Los materiales utilizados en esta clase de memorias normalmente son de aleaciones entre un metal de transici´on (MT) y las tierras raras (TR), estas aleaciones se caracterizan por presentar propiedades magn´eticas, el´ectricas, magneto´opticas singulares; y adem´as, presentan alta anisotrop´ıa magn´etica perpendicular uniaxial (AMP) con el eje de f´acil magnetizaci´on (sin campo magn´etico externo) orientado perpendicularmente al plano de la pel´ıcula; estas propiedades son objeto de estudio desde hace d´ecadas hasta nuestra ´epoca. Chaudari et al. (1973) mostraron que, al cambiar la composici´on de TR en blancos pulverizados, variaba considerablemente la magnetizaci´on de saturaci´on a temperatura ambiente; ´este cambio fue atribuido al acoplamiento antiferromagn´etico entre los sistemas de espines de los MT y las TR, asimismo la Tc y la magnetizaci´on var´ıan en funci´on de la temperatura. Avignant et al. (1998) mencionan que gracias a la alta resistividad de estas aleaciones su conductividad t´ermica no es muy elevada, lo que permite regiones de calentamiento local, requisito para lectura y escritura de medios magn´eticos. Sallica et al. (2009) determinaron que compuestos de TR-MT presentan AMP, alta coercitividad, alta magnetizaci´on de saturaci´on, gran efecto Kerr magneto ´optico polar, elevada Tc. Soliman & Abu- Zied (2009) mencionan que como la temperatura de compensaci´on de estos materiales es pr´oxima a la temperatura ambiente se anula la imanaci´on, logrando un campo coercitivo alto, lo que garantiza la estabilidad de los dominios magn´eticos, siendo este un requisito para el almacenamiento de informaci´on por medios magneto-´opticos. Arrabal et al. (2012) demostraron que la utilizaci´on de TR como el Gd o el Nd mejoran las propiedades anticorrosivas de la aleaci´on AM50. Rojas et al. (2012) estudiaron la composici´on en forma de polvo de Tb0.257−xNdxFe0.743 con x=0, 0.125, 0.257, aleada de manera mec´anica y reportaron una fase amorfa al disminuir la temperatura, presentando un comportamiento ferromagn´etico y tendencia al paramagnetismo con el incremento
+
+PROPIEDADES ESTRUCTURALES Y MAGN´ETICAS DE ALEACIONES Gd0.257−xT bxF e0.743 OBTENIDAS POR ALEAMIENTO
+
+MEC´ANICO de la temperatura. Dada la importancia del estudio de aleaciones de TR-MT en ciencia y tecnolog´ıa, nosotros reportamos en este estudio las propiedades magn´eticas y estructurales de la composici´on en forma de polvo del sistema Gd0.257−xTbxFe0.743 con x=0, 0.1285 y 0.257 aleado por AM.
+
+2. MATERIALES Y M´ETODOS
+
+El sistema en forma de polvo de alta pureza (99,9 %) de Gd0.257−xTbxFe0.743 con x=0, 0.1285, 0.257 fue aleado mec´anicamente durante 72 horas en presencia de atm´osfera de arg´on (Ar), con una frecuencia de 280 rpm, utilizando un molino planetario de alta energ´ıa FRITSCH PULVERISETTE 7, con jarros y esferas de acero inoxidable de 50 ml de volumen y 11 mm de di´ametro respectivamente; la relaci´on entre masa de bolas y masa de polvo fue de 20:1. La caracterizaci´on estructural se llev´o a cabo mediante la t´ecnica de Difractometr´ıa de rayos X a temperatura ambiente, utilizando un difract´ometro con radiaci´on Cu k-α, marca X’ Pert PRO MRD de PANalytical, los patrones de difracci´on fueron reﬁnados usando el m´etodo Rietveld con el software MAUD (Lutterotti & Scardi, 1990). Los espectros Mossbauer se obtuvieron a temperatura ambiente usando un espectr´ometro Mossbauer de transmisi´on con una fuente radioactiva de 57Co inmersa en una matriz de Rodio (Rh). Los espectros Mossbauer fueron ajustados con un sextete, un doblete, un singlete y una distribuci´on de campo hiperﬁno (HFD) utilizando el programa MOSFIT (Teillet & Varret, 1976). Los ciclos de hist´eresis se realizaron a temperaturas de 5K, 77K y 300K mediante PPMS con m´odulo VSM (Vibrating Sample Magnetometer) el cual permiti´o medir magnetizaci´on en funci´on de campo magn´etico y graﬁcarlos con el programa de an´alisis de datos ORIGIN.
+
+3. RESULTADOS Y DISCUSI´ON
+
+La ﬁgura 1 muestra el patr´on de difracci´on de las muestras en forma de polvo de la composici´on de Gd0.257−xTbxFe0.743 para x=0, 0.1285, 0.257 obtenidas por AM durante 72 horas. La fase de α-Fe se presenta en las tres composiciones mediante un pico caracter´ıstico cuya intensidad permanece ligeramente constante, sin embargo, se observa un aumento en su ancho, el cual se puede correlacionar con la disminuci´on del tama˜no del cristalito de esta fase a medida que se va sustituyendo el Gd por el Tb como puede observarse a partir de los par´ametros mostrados en la Tabla 1.
+
+V 6 N 1 enero-junio de 2017 • ISSN-e 2357-5749. DOI: 10.15446/rev.fac.cienc.v6n1.61394 • Art´ıculo Investigaci´on
+
+MAURICIO GALVIS, YEBRAIL ROJAS, DAGOBERTO OYOLA, HUMBERTO BUSTOS, HUGO MART´INEZ Tabla 1: Par´ametros obtenidos mediante DRX de la composici´on en forma de polvo de Gd0.257−xTbxFe0.743
+
+con x=0, 0.1285, 0.257 molida durante 72 horas.
+
+Muestras Fases Par´ametros
+
+Gd0.257Fe0.743
+
+Gd0.1285Tb0.1285Fe0.743
+
+FeTb
+
+Tb0.257Fe0.743
+
+FeTb
+
+Tama˜no del cristalino (nm)
+
+Fracci´on
+
+de volumen
+
+±
+
+de Red
+
+Fe a=2.865
+
+FeGd a=4.805 c=4.063
+
+Gd2O3 a=9.909
+
+Fe a=2.858
+
+FeGd a=4.606 c=4.092
+
+a=5.870 b=12.18
+
+c=6.488
+
+Fe a=2.860
+
+a=5.804 b=12.13
+
+c=6.686
+
+El primer difractograma de la Figura 1 muestra que cuando x = 0, se presenta la fase α-Fe con par´ametro de red a = 2.865 ˚A, en los picos correspondientes a los ´angulos 2θ=44.54o, 64.95o, 82.34o
+
+y 98.97o, para ´angulos distintos se presentan las fases: FeGd con estructura hexagonal y par´ametros de red a = 4.805 ˚A y c = 4.063 ˚A y la fase Gd2O3 que tiene una estructura c´ubica con par´ametro de red a = 9.909 ˚A, la presencia de ´oxidos se asocia a una peque˜na contaminaci´on en el proceso, al contenido de oxigeno(O) y nitr´ogeno(N) dentro del Ar utilizado como atm´osfera y a la tendencia de las TR a sufrir procesos de oxidaci´on. El segundo difractograma para x = 0.1285 presenta la fase α- Fe con par´ametro de red a = 2.858 ˚A, en los picos correspondientes a los ´angulos 2θ=44.36o, 64.97o, 82.21o y 99.04o, para ´angulos diferentes presenta las fases: FeGd que tiene una estructura hexagonal con par´ametros de red a = 4.606 ˚A y c = 4.092 ˚A, la fase FeTb con estructura ortorr´ombica y par´ametros de red a = 5.870 ˚A, b = 12.18 ˚A y c = 6.488 ˚A. En el ´ultimo difractograma cuando x = 0.257 observamos la fase α-Fe con par´ametro de red a = 2.860 ˚A , en los picos correspondientes a los ´angulos 2θ=44.61o , 64.98o , 82.38o y 99.11o y una fase correspondiente a FeTb con estructura ortorr´ombica con par´ametros de red a = 5.804 ˚A, b = 12.13 ˚A y c = 6.686 ˚A .
+
+PROPIEDADES ESTRUCTURALES Y MAGN´ETICAS DE ALEACIONES Gd0.257−xT bxF e0.743 OBTENIDAS POR ALEAMIENTO
+
+MEC´ANICO
+
+Figura 1: Difractogramas de rayos X de la composici´on en forma de polvo de Gd0.257−xTbxFe0.743 con
+
+x = 0, 0.1285, 0.257 molida durante 72 horas. Fuente: Elaboraci´on propia.
+
+Figura 2: Espectros Mossbauer de la composici´on en forma de polvo de Gd0.257-xTbxFe0.743 con
+
+x = 0, 0.1285, 0.257 molida durante 72 horas. Fuente: Elaboraci´on propia.
+
+La Figura 2 presenta los espectros Mossbauer a temperatura ambiente del sistema de Gd0.257−xTbxFe0.743 con x = 0, 0.1285, 0.257 en forma de polvo, aleados mec´anicamente durante 72 horas; en la Tabla 2 se presentan los par´ametros hiperﬁnos donde el campo hiperﬁno (HF)
+
+V 6 N 1 enero-junio de 2017 • ISSN-e 2357-5749. DOI: 10.15446/rev.fac.cienc.v6n1.61394 • Art´ıculo Investigaci´on
+
+MAURICIO GALVIS, YEBRAIL ROJAS, DAGOBERTO OYOLA, HUMBERTO BUSTOS, HUGO MART´INEZ Tabla 2: Campo coercitivo (Hc), Magnetizaci´on remanente (Mr) y Magnetizaci´on de saturaci´on (Ms) de la composici´on en forma de polvo de Gd 0,257−x Tb x, Fe 0,743 con x=0, 0.1285, 0.257 molida durante 72 horas.
