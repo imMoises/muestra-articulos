@@ -6,13 +6,7 @@ El tema se abordó por un interés académico en determinar el tratamiento legal
 
 El propósito principal de este artículo es exponer los fundamentos de la responsabilidad del Estado por privación injusta de la libertad en aquellos casos donde el procesado es absuelto por duda en su favor, a fin de aportar elementos teórico-prácticos que contribuyan al análisis de la causal de in dubio pro reo, detallando parámetros claros sobre una jurisprudencia extensa en materia de privación injusta de la libertad.
 
-La primera hipótesis del trabajo de investigación será que el alcance de la eximente de responsabilidad del in dubio pro reo se debe reducir, por falta de fundamentos constitucionales, retornando en consecuencia al régimen objetivo con el fin de ampliar las indemnizaciones en favor de los privados de la libertad. La segunda hipótesis consiste en que el proceso penal si se puede valorar y que la tendencia jurisprudencial es devolverse al análisis del proceso
-
-REVISTA DE LA FACULTAD DE DERECHO Y CIENCIAS POLÍTICAS - UPB
-
-El in dubio pro reo como fundamento de la responsabilidad del Estado
-
-y dejar a un lado el régimen objetivo de la responsabilidad del Estado por in dubio pro reo.
+La primera hipótesis del trabajo de investigación será que el alcance de la eximente de responsabilidad del in dubio pro reo se debe reducir, por falta de fundamentos constitucionales, retornando en consecuencia al régimen objetivo con el fin de ampliar las indemnizaciones en favor de los privados de la libertad. La segunda hipótesis consiste en que el proceso penal si se puede valorar y que la tendencia jurisprudencial es devolverse al análisis del proceso y dejar a un lado el régimen objetivo de la responsabilidad del Estado por in dubio pro reo.
 
 Para lograr el propósito planteado en este un artículo se utilizó el tipo cualitativo en investigación, toda vez que el interés se centra en recoger datos que deben ser interpretados para alcanzar una lectura de la sociedad, no desde el dato estadístico, sino desde sus valores, sus factores culturales y sus características de orden subjetivo.
 
@@ -23,8 +17,6 @@ Se espera con este artículo brindar aportes a la comunidad académica y a los p
 El corpus de este artículo se compone de cinco capítulos temáticos y un acápite final de conclusiones. En el primer capítulo, se realiza un examen del derecho a la libertad personal y la concepción de privación injusta. En el segundo capítulo, se lleva a cabo una descripción de la responsabilidad del Estado y de su relación en los casos de absolución por in dubio pro reo. El tercer capítulo, se ocupa de desarrollar los presupuestos jurisdiccionales para la configuración de la responsabilidad del Estado por in dubio pro reo. El cuarto capítulo, se encarga de describir varios fallos de la Sección Tercera del Consejo de Estado relacionados con el tema.
 
 Por último, se expone una breve propuesta a la concepción de la responsabilidad del Estado, a partir de los términos de la Convención Americana de Derechos Humanos y de la iniciativa de redefinir los criterios jurisprudenciales para la concepción de la antijuridicidad del daño, lo cual implica la necesidad de abordar nuevos estudios académicos en este aspecto.
-
-REVISTA DE LA FACULTAD DE DERECHO Y CIENCIAS POLÍTICAS - UPB
 
 Lo injusto de la privación de la libertad
 
@@ -40,9 +32,6 @@ Ahora bien, se debe diferenciar el significado de pena privativa de la libertad 
 
 Además, su finalidad es diferente, mientras que la pena privativa de la libertad busca castigar al sentenciado por la comisión de un delito y su resocialización por transgredir una prohibición, la detención preventiva tiene la finalidad de asegurar la comparecencia al proceso, evitar la destrucción de pruebas, y proteger a las víctimas del hecho punible, sin quitar la presunción de inocencia.
 
-REVISTA DE LA FACULTAD DE DERECHO Y CIENCIAS POLÍTICAS - UPB
-
-El in dubio pro reo como fundamento de la responsabilidad del Estado
 
 De tal manera, la medida de detención preventiva es de carácter excepcional y siempre debe de estar ajustada a los requisitos que le impone el ordenamiento jurídico, de no ser así la pérdida de la libertad es injusta.
 
@@ -60,8 +49,10 @@ Así, el fiscal únicamente puede examinar las condiciones objetivas para solici
 
 Según Bustamante (2016): “Esta protección no es absoluta o irrestricta, pues constitucional y legalmente es viable la pérdida de la libertad en los casos y con las formalidades previstas en el ordenamiento jurídico” (p. 163).
 
-El juez, una vez escuchadas las intervenciones de las partes y practicados los elementos materiales probatorios y evidencia física legalmente obtenida, adoptará y justificará su decisión de imponer o no una medida de aseguramiento en establecimiento carcelario o en la residencia del imputado,
+El juez, una vez escuchadas las intervenciones de las partes y practicados los elementos materiales probatorios y evidencia física legalmente obtenida, adoptará y justificará su decisión de imponer o no una medida de aseguramiento en establecimiento carcelario o en la residencia del imputado, decisión contra la cual proceden los recursos ordinarios, de reposición, ante el mismo funcionario judicial y de apelación, ante los jueces penales del circuito.
 
-REVISTA DE LA FACULTAD DE DERECHO Y CIENCIAS POLÍTICAS - UPB
-
-decisión contra la cual proceden los recursos ordinarios, de reposición, ante el mismo funcionario judicial y de apelación, ante los jueces penales del circuito.
+Evolución de la responsabilidad del Estado por in dubio pro reo
+La jurisprudencia tiene determinado a partir de una interpretación del artículo 90 de la Constitución Política de Colombia, que cuando una persona privada de la libertad sea absuelta, se configura un evento de detención injusta en virtud del título de imputación de daño especial, por el rompimiento del principio de igualdad frente a las cargas públicas:
+1. Porque el hecho no existió.
+2. El sindicado no lo cometió.
+3. La conducta no constituía hecho punible.
