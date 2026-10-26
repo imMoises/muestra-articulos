@@ -1,0 +1,57 @@
+Cualquier persona puede verse vinculada, en algún momento de su vida, a una actuación penal. Bajo el modelo acusatorio, la Fiscalía General de la Nación está facultada para pedir al juez de control de garantías que restrinja la libertad del imputado mediante una medida de aseguramiento, cumplida en centro de reclusión o en el domicilio, mientras duran la investigación y el juzgamiento. Cuando el trámite concluye con sentencia absolutoria, el afectado puede acudir ante la jurisdicción contencioso administrativa y reclamar del Estado la reparación del daño sufrido por haber estado detenido injustamente.
+
+El grupo de personas que interesa a la presente investigación lo integran quienes, habiendo soportado una detención preventiva, fueron absueltos porque el juez de conocimiento, al término del juicio oral, no logró formarse la certeza exigida por la ley acerca de su responsabilidad penal. Ante tal incertidumbre probatoria, el fallador debió aplicar el in dubio pro reo, máxima de alcance universal según la cual toda duda insuperable ha de resolverse a favor del acusado.
+
+La escogencia del asunto obedeció a la necesidad académica de establecer cómo la ley y la jurisprudencia han tratado a quienes resultan absueltos por insuficiencia probatoria, y de ofrecer respuestas a los interrogantes jurídicos que tales eventos suscitan. Entre ellos se destacan la identificación de los elementos que deben concurrir para que surja el deber extracontractual del Estado de indemnizar, el margen del juez administrativo para examinar lo actuado en la causa penal, y el estudio de casos concretos que permitan comprender el problema en toda su dimensión.
+
+En consecuencia, el objetivo central de este escrito consiste en presentar las bases sobre las cuales descansa la responsabilidad patrimonial del Estado cuando la persona detenida es absuelta en aplicación del beneficio de la duda, con el ánimo de ofrecer herramientas teóricas y prácticas para el estudio de esta causal y de sistematizar, con criterios definidos, el abundante y no siempre uniforme precedente judicial sobre la materia.
+
+Como primera hipótesis se plantea que la exoneración estatal fundada en el in dubio pro reo carece de soporte constitucional y, por ello, debería restringirse, de manera que se recupere el régimen objetivo y se amplíe la protección indemnizatoria de quienes fueron detenidos. La segunda hipótesis sostiene que el juez administrativo sí está habilitado para valorar la actuación penal, y que la orientación actual de la jurisprudencia consiste en volver al examen de lo ocurrido en dicha actuación, abandonando la aplicación automática del régimen objetivo en los eventos de absolución por duda.
+
+En procura del objetivo trazado se adoptó un enfoque de investigación cualitativo, pues lo que se persigue es reunir información susceptible de interpretación que permita comprender la realidad social, no a partir de cifras o mediciones estadísticas, sino atendiendo a los valores, a los elementos culturales y a los rasgos subjetivos que la caracterizan.
+
+Como técnica se empleó el análisis documental, para construir una exposición rigurosa, veraz y completa del tema. Para ello se consultaron obras de doctrina, publicaciones especializadas y providencias de la Corte Constitucional y del Consejo de Estado, se contrastaron las coincidencias y discrepancias halladas entre ellas y, finalmente, se interpretó el material reunido con el propósito de que las conclusiones obtenidas gozaran de la mayor objetividad posible.
+
+Con este trabajo se pretende contribuir tanto al debate académico como a la situación de quienes han padecido una detención injusta, a fin de que pueda establecerse de antemano si la absolución por duda permite reunir los elementos que hacen exigible la reparación a cargo del Estado.
+
+El contenido del artículo se distribuye en cinco capítulos y un apartado final destinado a las conclusiones. El primer capítulo analiza el derecho fundamental a la libertad personal y el sentido que la jurisprudencia ha dado a la noción de privación injusta. El segundo capítulo describe la evolución de la responsabilidad patrimonial del Estado y su aplicación a los procesos que terminan con absolución por duda. En el tercer capítulo se estudian los elementos que deben acreditarse para declarar dicha responsabilidad en los eventos de in dubio pro reo. El cuarto capítulo reseña algunas decisiones relevantes proferidas por la Sección Tercera del Consejo de Estado sobre la materia.
+
+Finalmente, en el quinto capítulo se formula una propuesta para replantear la manera de entender la responsabilidad estatal, con apoyo en las garantías previstas en la Convención Americana sobre Derechos Humanos y en la conveniencia de revisar los parámetros jurisprudenciales que definen cuándo un daño es antijurídico, aspecto que reclama ser profundizado en investigaciones posteriores.
+
+La libertad personal frente a su restricción injusta
+
+La Carta Política de 1991 consagra un extenso conjunto de derechos, entre los cuales la libertad goza de una posición preeminente por ser derecho fundamental. Ello significa que forma parte del núcleo que sostiene el orden democrático y que limita de manera concreta la actuación de todas las autoridades.
+
+De allí que toda limitación de la libertad que genere un perjuicio antijurídico, esto es, uno que la persona no tenía el deber jurídico de padecer, comprometa la responsabilidad estatal y obligue al juez administrativo a disponer la correspondiente indemnización de los daños causados.
+
+En desarrollo del artículo 90 superior, la Ley Estatutaria de la Administración de Justicia regula de manera expresa la responsabilidad derivada de la actividad judicial así:
+
+El Estado responderá patrimonialmente por los daños antijurídicos que le sean imputables, causados por la acción o la omisión de sus agentes judiciales. En los términos del inciso anterior el Estado responderá por el defectuoso funcionamiento de la administración de justicia, por el error jurisdiccional y por la privación injusta de la libertad. […] Quien haya sido privado injustamente de la libertad podrá demandar al Estado reparación de perjuicios. […] El daño se entenderá como debido a culpa exclusiva de la víctima cuando ésta haya actuado con culpa grave o dolo, o no haya interpuesto los recursos de ley. (Ley 270, 1996, arts. 65, 68 y 70)
+
+Ahora bien, conviene distinguir entre la pena de prisión y la detención preventiva. La primera supone la restricción de la libertad de movimiento impuesta como consecuencia de una sentencia condenatoria ejecutoriada, en tanto que la segunda, aunque también limita la libertad de locomoción, ya sea en centro de reclusión o en el lugar de residencia, tiene un carácter provisional y cautelar dentro del proceso.
+
+Sus propósitos tampoco coinciden. La pena persigue retribuir al condenado por la infracción cometida, prevenir nuevas conductas punibles y procurar su reinserción social; la detención preventiva, en cambio, busca garantizar que el imputado concurra al proceso, impedir que se alteren los elementos de prueba y salvaguardar a la comunidad y a las víctimas, todo ello sin desvirtuar la presunción de inocencia que lo ampara.
+
+Por consiguiente, la detención preventiva debe entenderse como una medida excepcional, sometida a las exigencias que la Constitución y la ley establecen; cuando se impone al margen de ellas, la restricción de la libertad deviene injusta.
+
+Conviene precisar que la medida de aseguramiento es la orden del juez de control de garantías que dispone la reclusión del imputado en un centro penitenciario o en su lugar de residencia mientras se tramita la causa ante el juez de conocimiento. Su imposición no es discrecional, pues el legislador la sometió a presupuestos específicos que deben verificarse en cada caso:
+
+Así, para que proceda la detención preventiva, la Fiscalía debe solicitarla expresamente y demostrar, con base en los elementos materiales probatorios, la evidencia física o la información recaudada con apego a la ley, que es razonable inferir la autoría o participación del imputado en el delito investigado. A esta inferencia debe sumarse, por lo menos, una de las siguientes finalidades constitucionales que justifican la restricción anticipada de la libertad:
+
+1. Que resulte indispensable para impedir que el imputado entorpezca la actividad investigativa, oculte o altere pruebas, o influya indebidamente en testigos.
+
+2. Que la libertad del imputado represente un riesgo serio para la comunidad o para la víctima del delito.
+
+3. Que existan motivos fundados para temer que el imputado no comparezca o eluda la eventual condena (Ley 906, 2004, art. 308).
+
+De este modo, a la Fiscalía le corresponde exponer los hechos y las razones que fundamentan su petición, pero no le está dado decidir si los presupuestos legales se encuentran satisfechos, por cuanto esa valoración pertenece de manera exclusiva al juez de control de garantías, como garante de los derechos del imputado.
+
+Sobre el particular, la Corte Constitucional, en la Sentencia C-037 de 1996, advirtió que la libertad admite limitaciones legítimas, siempre que se impongan en los supuestos y con los requisitos que fija la ley.
+
+Escuchados los argumentos de la Fiscalía, de la defensa y, cuando intervengan, del Ministerio Público y de la víctima, el juez resolverá motivadamente si impone o no la medida, y en qué modalidad. Contra esta determinación caben los recursos de reposición, que resuelve el mismo juez, y de apelación, cuyo conocimiento corresponde al juez penal del circuito, lo que garantiza un doble control sobre la decisión.
+
+La responsabilidad estatal frente a la absolución por duda: una evolución
+El artículo 414 del Decreto 2700 de 1991 reconoció el derecho a ser indemnizado a quien, tras haber sido detenido preventivamente, fuera absuelto definitivamente, y la jurisprudencia del Consejo de Estado, a la luz del artículo 90 superior, entendió que en esos eventos el daño debía repararse bajo un régimen objetivo, cuando concurriera alguno de estos supuestos:
+1. Inexistencia material del hecho investigado.
+2. El procesado no fue su autor.
+3. La conducta investigada no era delictiva.

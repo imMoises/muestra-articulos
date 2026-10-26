@@ -138,3 +138,22 @@ En la carpeta de salida quedan:
 | `metodo = respaldo_keywords`                | No encontró el título "Introducción" y empezó después de las palabras clave     | Revisar que el inicio del `.txt` sea correcto |
 
 Se recomienda revisar a mano unos pocos `.txt` de cada revista distinta: tablas a media columna o notas al pie largas pueden colarse en el texto.
+
+## Generar el prompt XML
+
+Para insertar el contenido de un archivo `.txt` dentro de la etiqueta
+`<texto_referencia>` y mostrar el prompt completo en la consola:
+
+```bash
+python generar_prompt.py salida/articulo-1_intro.txt
+```
+
+El resultado se puede copiar y pegar directamente. El script utiliza
+`prompt.xml` como plantilla y escapa automáticamente los caracteres
+especiales de XML del texto de referencia (`&`, `<` y `>`).
+
+También se puede indicar otra plantilla:
+
+```bash
+python generar_prompt.py salida/articulo-1_intro.txt --plantilla otra-plantilla.xml
+```
