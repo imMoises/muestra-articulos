@@ -1,0 +1,53 @@
+Frente a los desafíos de los pactos mercantiles en curso —Tratado de Libre Comercio (TLC), Área de Libre Comercio de las Américas (ALCA), etc.—, la degradación ecológica y la expansión de la economía sumergida, la miseria y la desigualdad en la década pasada, resulta imperativo transformar el saber en el pilar fundamental de la competitividad y el progreso nacional. Para aportar a esto, el documento recupera, enlaza y amplía conclusiones de múltiples investigaciones y escritos universitarios de sus creadores acerca del progreso de la ciencia, la tecnología y la innovación (CTI) en Colombia. Su meta es determinar los primordiales progresos documentados durante los quince años precedentes dentro del campo de la CTI, y su vínculo con las directrices destinadas a fomentar su avance.
+
+Con miras a lograr las metas planteadas, primero se construye un esquema para el estudio de la conexión entre la normativa, los progresos en la CTI y la aportación de aquella al fomento del crecimiento, la competitividad y el desarrollo. Segundo, se delinean las transformaciones institucionales y las normativas del lapso analizado. Tercero, se examina la mutación de los índices referentes a: los empeños para fomentar los medios y aptitudes de inventiva, de generación y difusión académica en el territorio; los saldos logrados en ambas áreas durante el lapso estudiado, y los avances en la integración entre los sujetos de los sectores investigativo, técnico e industrial. Cuarto, se expone un sucinto resumen de los saldos de dicha transformación. Por último, para abordar los inconvenientes identificados en la evaluación previa se sugieren guías para encarar los mayores retos de regulación ya detectados.
+
+El ensayo procura ayudar a suplir, aunque sea en reducida medida, la carencia de estudios difundidos sobre los progresos en el área de la CTI y la valoración de los éxitos de regulación en el territorio. Procura nutrir, asimismo, el debate en marcha acerca de la Visión Colombia 2019 (PR-DNP, 2005) y sobre el Plan Estratégico de Ciencia, Tecnología e Innovación Colombia (Pencti) 2005-2020. Para esto, nace de una hipótesis: únicamente a través de una extensa y documentada intervención de agentes trascendentales para el avance de la CTI y de su integración con los fenómenos y regulaciones de índole financiera, comunitaria, tradicional, ecológica y gubernamental que experimenta el país, esta aportará notablemente a optimizar la concurrencia y el desarrollo.
+
+Una aclaración acerca del enfoque, las magnitudes y las restricciones del escrito resulta obligatoria: dada su esencia, el documento no logra ser omnímodo, ni buscar erigirse como un escrutinio estricto y habitual de normativa estatal —de CTI en dicha coyuntura—, vale decir, respecto a su rendimiento, contundencia, consecuencias o repercusiones (Gómez, Rodríguez y Pérez, 1999; Jaramillo et al., 2005); se enfoca más bien, en ciertos índices que ayudan a otorgar un claro panorama holístico acerca del progreso y mejoras de la CTI en Colombia y los triunfos más notorios y asignables a la directriz concebida para impulsarla.
+
+1. Un esquema para estudiar las mejoras de la CTI
+
+Con el propósito de exhibir el esquema que orienta el ensayo, en los renglones que prosiguen se realiza una veloz inspección de la bibliografía que evalúa la conexión entre elprogreso del entendi-
+
+Rev. Econ. Bogotá (Colombia), 18 (30): 39-78, julio-diciembre de 2005
+
+ALEJANDRO GÓMEZ FERNÁNDEZ, CAROLINA PÉREZ SÁNCHEZ
+
+miento académico y técnico y sus nexos con las normativas de CTI en: (i) la conexión entre la variación técnica y el incremento, y de las normativas para impulsarlos; (ii) las contribuciones de los avances conceptuales globales y las vivencias de las naciones de reciente manufacturación, interpretados desde la óptica de la normativa para las naciones en fase de crecimiento; (iii) las propuestas y avances alrededor de los sistemas nacionales de innovación (SNI) interpretados igualmente desde la situación de los territorios sudamericanos y sus repercusiones de normativa, y (iv) las aptitudes de generación y propagación académica.
+
+1.1 Variación técnica, concurrencia y normativa: factores para su estudio
+
+Globalmente, hay un gran acuerdo alrededor del rol del avance técnico como impulsor del aumento y el desenvolvimiento. En la doctrina financiera el estudio de esta conexión se ubica en Schumpeter (1934) y en las visiones tradicional y progresista. Entre ambas igualmente subsiste pacto acerca del concepto del saber académico como un patrimonio colectivo y la urgencia de regulaciones estatales para impulsar la labor investigativa, gracias al dilatado periodo para lograr frutos y las trabas para asimilarlos.
+
+Muy diferente resulta la coyuntura en el escenario de la técnica, por las discrepancias en las ideas acerca del saber técnico y las regulaciones para fomentarlo. En la corriente ortodoxa, el avance tecnológico posee una enorme influencia sobre el rendimiento global de los elementos (RGE) y este sobre el aumento (Solow, 1956; Swan, 1956; Griliches, 1986). No obstante, su visión externa de la alteración tecnológica resulta ampliamente rebatida por la
+
+denominada doctrina interna del cambio tecnológico (Romer, 1986 y 1990; Mankiw, Romer y Weil, 1992; Grossman y Helpman, 1991).
+
+La internalización del cambio tecnológico encarna una mejora ante la perspectiva externa, dado que admite la condición sumatoria y la escasa imparcialidad del avance técnico dentro del entorno de la ecuación de fabricación. Sin embargo, ambos esquemas estiman que el saber integrado dentro de las recientes herramientas posee atributos de patrimonio colectivo (Griliches, 1986; Aghion y Howitt, 1992 y 1998; Barro y Sala- I-Martín, 2003). Por ello se pliegan a la perspectiva secuencial bajo la que el saber producido mediante la indagación fundamental, la práctica y las labores técnicas, resulta asequible con suma soltura y escasos valores, para terceros (Pavitt, 1997).
+
+Las repercusiones de dicha visión resultan evidentes: por medio de acciones como la adquisición de flamante infraestructura y aparatos (o de permisos) resulta factible ingresar, con enorme simpleza, a los recientes saberes gestados o, lo cual es igual, a las flamantes herramientas.1 De tal manera, por medio del atesoramiento de fondos se logra un ingreso directo y libre al progreso técnico.
+
+Las evoluciones conceptuales —sustentadas en sus estudios prácticos— apartan a la visión progresista de estas reducciones. Para sus seguidores, el saber técnico resulta es-
+
+En cuanto al concepto de técnica resulta práctico citar a Pavitt, “emplearé el vocablo técnica para aludir tanto a los objetos materiales como al saber, personificado en individuos, para emplear, perfeccionar y optimizar dichos objetos” (1997, p. 191).
+
+Rev. Econ. Bogotá (Colombia), 18 (30): 39-78, julio-diciembre de 2005
+
+DIRECTRICES Y PROGRESOS EN LA CIENCIA, LA TÉCNICA Y LA INVENTIVA EN COLOMBIA 1990-2005
+
+pecífico (a las firmas, a los artículos y a los procedimientos) y enrevesado; se edifica y atesora paulatinamente (creando sendas singulares de mejora técnica), y posee elementos implícitos, que entorpecen su difusión y empleo por diversas corporaciones (Nelson y Winter, 1982; Pavitt, 1997; Dosi, 1988a, 1988b y 1997).
+
+El saber técnico se forja en la compañía sobre la base de aquello conocido, y mediante el empleo de las herramientas asimiladas (learning by using), de la vivencia de manufactura (learning by doing) y la resolución de obstáculos (learning by solving). De este modo se atesora paulatinamente, y se manifiesta en hábitos que personifican la manera habitual de ejecutar las labores en la corporación, las cuales originan inercias que repercuten sobre el progreso venidero de sus herramientas. Se estructuran así rutas técnicas que resultan propias a cada firma y path dependents (Pavitt, 1997; Nelson y Sampat, 2001; Langlois y Robertson, 1995).
+
+Dichos métodos empíricos de asimilación producen saberes implícitos y peculiares que, de esta forma, resultan arduamente estructurables y transmisibles hacia diversas firmas o grupos de labor diferentes a quienes vivieron el evento que los gestó (Nelson y Sampat, 2001; Langlois y Robertson, 1995).
+
+La singularidad y la naturaleza sumatoria de las herramientas demandan, por otro lado, el impulso de labores y aptitudes técnicas para las corporaciones que las compran. Para lograr operarlas se precisan alteraciones que vuelven onerosa la integración, y con frecuencia modificaciones que
+
+implican asimilaciones y progresos técnicos. La naturaleza sumatoria, por su lado, se refleja en que el rastreo y escogencia de herramientas siempre se efectúa partiendo de lo que ya se conoce (Pavitt, 1997).
+
+Por consiguiente, el progreso técnico interno, y aquel que resulta fruto de la modificación, demanda de las corporaciones, más allá de las aptitudes de manufactura, el fomento de sus aptitudes técnicas.2 Por ende, el atesoramiento de fondos resulta escaso para justificar la velocidad y rumbo del sector tecnológico,incluso cuando este resulta asimilado.
+
+Las normativas de CTI emanadas de dichos argumentos poseen coincidencias y discrepancias. Las perspectivas coinciden en la urgencia de respaldar el progreso investigativo por su naturaleza de patrimonio colectivo y su aporte al crecimiento de la comunidad. Igualmente coinciden en que la movilidad y rumbo del progreso técnico resultan frenadas por deficiencias del comercio (como datos incompletos, conflictos de retención de los resultados de la indagación/ inventiva, que repercuten en grados de financiación deficiente) y por exclusión (por conflictos de oferta, ingreso, el valor y la aptitud para asimilarlo3), que
+
+Bell y Pavitt (1993) determinan la distinción entre las aptitudes técnicas y las productoras. Las iniciales se vinculan a los medios y destrezas paraadministrar y producir la alteración tecnológica, abarcando los saberes, las vivencias y los nexos corporativos; las posteriores, se vinculan a los activos de inversión, al saber y a las habilidades operativas que funcionan para fabricar empleando una herramienta específica. Para mayor precisión, particularmente en lo referente a la subvención de las labores de I+D e inventiva se logra revisar a Becchetti y Sierra (2002).

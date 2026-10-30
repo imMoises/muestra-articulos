@@ -1,0 +1,69 @@
+Al indagar sobre los factores que explican el bajo desempeño en matemáticas y el creciente desinterés del alumnado, la atención se dirige al análisis de las prácticas de enseñanza y de aprendizaje que posibiliten el crecimiento armónico de la persona y su formación integral. La manera de alcanzarlo evidencia la pertinencia de investigar en este campo.
+
+Dentro de los estudios de mayor actualidad que abordan la enseñanza y el aprendizaje de las matemáticas pueden mencionarse los de (Font, Planas & Godino, 2010; Gómez Chacón, 2010; Blum & Borromeo Ferri, 2009; Godino, Batanero & Font, 2008; Llinares, 2008). Con base en esta revisión, producto del rastreo bibliográfico realizado, se reconocen los siguientes ejes problémicos:
+
+Obstáculos en el proceso de enseñanza-aprendizaje de las matemáticas. (Socas, 2011; Gómez Chacón, 2010; Rico, 2009). 2. Metodologías didácticas para la enseñanza y el aprendizaje de las matemáticas. (Llinares, 2011; Godino, 2011; Font, 2010). En el marco de este eje problémico se describen algunos aspectos generales y se examinan con mayor profundidad las siguientes subcategorías:
+
+a. La modelación matemática y sus aportes a otras disciplinas
+
+(Blum & Borromeo Ferri, 2009; Biembengut & Hein, 2004; Trigueros, 2009). b. Incorporación de las tecnologías de la información en la enseñanza y el aprendizaje de las
+
+matemáticas. (Moreno Armella, 2010; Gamboa, 2007; Cuevas & Pluvinage, 2009). 3. La evaluación del aprendizaje matemático. (Giménez, 2009; Rico & Lupiáñez, 2008; Ministerio de Educación Nacional, MEN, 2006). 4. Desarrollo integral del estudiante a través de la enseñanza y el aprendizaje de las matemáticas.
+
+“Revista Electrónica de Investigación en Educación y Pedagogía”. No. 18, (enero-junio de 2012, Colombia), acceso: [http://revistaeducacionypedagogia.edu.co/], ISSN 2011-7533 - Indexada Publindex-Colciencias (C), Latindex, Redalyc, Dialnet, DOAJ, CLASE, Google Académico, Sistema Regional de Información en Línea para Revistas Científicas de América Latina, el Caribe, España y Portugal.
+
+En lo que sigue se conceptualizan y describen los ejes problémicos de la enseñanza y el aprendizaje de las matemáticas, comprendidos como amplias categorías propicias para futuros estudios en este campo, adscrito al Semillero de Investigación en Didáctica de las Matemáticas de la Facultad de Educación.
+
+De manera general, la enseñanza y el aprendizaje se entienden como un proceso (Font, Planas & Godino, 2010; Godino, Batanero & Font, 2008; Centro de Estudios Pedagógicos Aplicados [CEPA], 2009; Pozo, 2008; Coll, 2008). Dicho proceso se concibe como una serie de acciones o actividades articuladas que se llevan a cabo con el propósito de producir una transformación, y estas pueden ser de carácter interno o externo.
+
+Las acciones o actividades internas ocurren en el plano consciente o inconsciente del sujeto y guardan relación con los mecanismos cognitivos que hacen posible la construcción del saber (Godino, Batanero & Font, 2008); no obstante, entidades como el CEPA (2009) restan valor a esta clase de procesos, al sostener que “aquello que sucede en la mente del estudiante, como el interés o las ideas, escapa a toda observación y medición directa, por lo que carece de valor para el estudio del aprendizaje”.
+
+Por su parte, las acciones o actividades externas que integran dicho proceso se vinculan con el entorno en el cual se desenvuelve el estudiante; desde la perspectiva sociocultural de Vigotsky, la construcción del conocimiento surge del intercambio entre la persona y su contexto, concebido más allá de lo material, como un ámbito social y cultural; en contraste, el CEPA (2009) sostiene que “aprender equivale a fijar asociaciones entre los estímulos del ambiente y las respuestas del sujeto”. Así, el aprendizaje tiene lugar en la relación que se establece entre el saber que se enseña y el estudiante que aprende, mediada por el profesor, quien estimula y acompaña el proceso mediante el diseño y la puesta en marcha de situaciones de enseñanza (Brousseau, 2007; Coll, 2008; Chevallard, 1997).
+
+La mediación del profesor se materializa en las acciones didácticas, entendidas como prácticas y estrategias de enseñanza; sin embargo, estas exigen la indagación, el análisis crítico, la comprensión y la valoración permanente de su propio ejercicio (Llinares, 2008; Perrenoud, 2004; Imbernón, 2007; Zabalza, 2003; Schön, 1998). De manera general, dentro de las prácticas y estrategias de enseñanza sugeridas por diversos autores se destacan las siguientes:
+
+Orientar y administrar las tareas tanto en el aula como fuera de ella, favoreciendo la participación activa del estudiante en la construcción de su aprendizaje (Coll, 2008; Font, 2010).
+
+Diseñar las sesiones de clase en equipo con otros docentes (Llinares, 2008). 2. Propiciar momentos de discusión argumentada con los alumnos que favorezcan el desarrollo de competencias (Niss, 2003). 3. Emplear recursos y materiales didácticos que estimulen la exploración, el razonamiento y la transferencia de lo aprendido (Godino, Batanero & Font, 2008). 4. Desplazar el énfasis puesto en la exactitud de las respuestas hacia el reconocimiento de los caminos de solución (Schoenfeld, 1992). 5. Desarrollar proyectos de indagación orientados a establecer vínculos matemáticos que permitan explicar una situación, un fenómeno o un problema del entorno (Blum & Borromeo Ferri, 2009; Biembengut & Hein, 2004; Trigueros, 2009; Villa-Ochoa, 2007; Bassanezi, 2002).
+
+El desempeño del profesor como mediador en la formación de los estudiantes se encuentra íntimamente ligado a la posibilidad de favorecer su crecimiento integral, esto es, el fortalecimiento de sus dimensiones intelectual, moral, afectiva y actitudinal, en concordancia con lo propuesto por Gómez Chacón (2000), Rico (2009) y D’Amore (2006). Para Godino, Batanero y Font (2008), el desafío actual de los matemáticos y de los docentes del área consiste en conseguir que los estudiantes fortalezcan sus capacidades de razonamiento y el manejo de recursos que les posibiliten afrontar las situaciones problemáticas de su cotidianidad.
+
+Por otra parte, los sistemas educativos han sido concebidos por las sociedades como
+espacios destinados a integrar el conocimiento matemático y científico al acervo
+cultural de las comunidades, con el propósito explícito de promover en ellas una
+comprensión racional de la realidad (Rico, 2009), así como una mirada interdisciplinar
+y transdisciplinar de las matemáticas, en la medida en que estas resultan igualmente
+valiosas para tratar situaciones propias de otros campos del saber (Niss, 2003).
+Con fundamento en lo expuesto, se concluye que la enseñanza y el aprendizaje de
+las matemáticas constituyen un proceso deliberado de apropiación del saber
+matemático, que comienza con el análisis, la comprensión, la elaboración y la
+valoración de las acciones didácticas que favorecen la adquisición y el fortalecimiento
+de competencias y disposiciones para una actuación matemática pertinente en la
+vida social.
+
+En lo que sigue se presenta la caracterización de los ejes problémicos inherentes a
+la enseñanza y aprendizaje de las matemáticas.
+3. Obstáculos en la enseñanza-aprendizaje de las matemáticas
+Las matemáticas se han reconocido como un saber indispensable para el progreso
+social, y como un componente fundamental en la formación integral del ser humano,
+por lo que se enseñan desde los primeros años (Alsina, 2006; Rico, 2009; Socas, 2011).
+No obstante, los problemas asociados a su aprendizaje, además de ocasionar
+resultados académicos deficientes, figuran entre las razones del abandono escolar y
+de la marginación social, pues favorecen la salida temprana de los estudiantes del
+sistema educativo (Gómez Chacón, 2000).
+Múltiples son las causas de estos obstáculos, las cuales se relacionan con falencias
+en el ejercicio docente o con situaciones de enseñanza poco adecuadas (Brousseau,
+2007; Socas, 2011; D’Amore, 2006; Godino, Batanero & Font, 2008), así como con el
+peso de los factores afectivos tanto en profesores como en alumnos (McLeod, 1992;
+Gómez Chacón, 2000).
+La visión pedagógica de la enseñanza de las matemáticas fundamentada en prácticas
+tradicionales, repetitivas y sancionatorias, en una enseñanza carente de diálogo,
+alejada de la experiencia cotidiana del estudiante y de los demás campos del saber
+(Freire, 2005; Chevallard, 1997), ajena también a su manera propia de pensar, a su
+grado de madurez cognitiva, a su contexto psicosocial y cultural y a su etapa de
+desarrollo (Piaget, 1975), a sus conocimientos previos, y orientada a la transmisión
+unilateral de contenidos, sitúa al profesor como eje del proceso y le niega al
+estudiante la posibilidad de construir el conocimiento de manera individual y
+colectiva, y con ello, de comprenderlo, aplicarlo y compartirlo (Skovsmose, 1999).
+Esta clase de práctica docente se ha instaurado de manera rutinaria y acrítica
+(D’Amore, 2006).

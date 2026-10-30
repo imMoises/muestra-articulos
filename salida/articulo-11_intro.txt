@@ -1,0 +1,53 @@
+Ante los retos que plantean los acuerdos comerciales en trámite —Tratado de Libre Comercio (TLC), Área de Libre Comercio de las Américas (ALCA), etc.—, el deterioro ambiental y el crecimiento de la informalidad, la pobreza y la inequidad en el último decenio, es acuciante convertir el conocimiento en fuente principal de la competitividad y el desarrollo del país. Para contribuir a ello, el texto retoma, articula y desarrolla los resultados de varios estudios y trabajos académicos de sus autores sobre la evolución de la ciencia, la tecnología y la innovación (CTI) en Colombia. Su objetivo es establecer los principales avances registrados en los últimos quince años en el ámbito de la CTI, y su relación con las políticas orientadas a estimular su desarrollo.
+
+A fin de alcanzar los objetivos propuestos, primero se elabora un marco para el análisis de la relación entre la política, los avances en la CTI y la contribución de ésta al desarrollo del crecimiento, la competitividad y el desarrollo. Segundo, se esbozan los desarrollos institucionales y las políticas del período estudiado. Tercero, se analiza la evolución de los indicadores en materia de: los esfuerzos para desarrollar los recursos y capacidades de innovación, de producción y divulgación científica en el país; los resultados obtenidos en ambos frentes en el período estudiado, y los avances en la articulación entre los actores de los ámbitos científico, tecnológico y productivo. Cuarto, se presenta un breve balance de los resultados de esa evolución. Por último, para enfrentar los problemas detectados en el diagnóstico anterior se proponen pautas para asumir los principales desafíos de política detectados.
+
+El artículo busca contribuir a llenar, así sea en una mínima parte, la escasez de trabajos publicados sobre los avances en el campo de la CTI y la evaluación de los logros de política en el país. Busca alimentar, igualmente, la discusión en curso sobre la Visión Colombia 2019 (PR-DNP, 2005) y sobre el Plan Estratégico de Ciencia, Tecnología e Innovación Colombia (Pencti) 2005-2020. Para ello, parte de una premisa: sólo a partir de una amplia e informada participación de actores relevantes para el desarrollo de la CTI y de su articulación con los procesos y políticas de carácter económico, social, cultural, ambiental y político que vive el país, ésta contribuirá significativamente a mejorar la competitividad y el desarrollo.
+
+Una precisión sobre la orientación, los alcances y las limitaciones del artículo es necesaria: por su naturaleza, el texto no puede ser exhaustivo, ni pretender constituirse en una evaluación rigurosa y típica de política pública —de CTI en este caso—, esto es, en términos de su eficiencia, eficacia, efectos e impactos (Malaver, Perdomo y Zerda, 1999; Villaveces et al., 2005); se concentra más bien, en algunos indicadores que contribuyen a dar una visión global sobre la evolución y avances de la CTI en Colombia y los logros más visibles y atribuibles a la política diseñada para estimularla.
+
+1. Un marco para analizar los avances de la CTI
+
+Con el fin de mostrar el marco que guía el artículo, en las líneas que siguen se efectúa una rápida revisión de la literatura que examina la relación entre el desarrollo del conoci-
+
+Cuad. Adm. Bogotá (Colombia), 18 (30): 39-78, julio-diciembre de 2005
+
+FLORENTINO MALAVER RODRÍGUEZ, MARISELA VARGAS PÉREZ
+
+miento científico y tecnológico y sus vínculos con las políticas de CTI en: (i) la relación entre el cambio técnico y el crecimiento, y las políticas para estimularlos; (ii) los aportes de los desarrollos teóricos generales y las experiencias de los países de reciente industrialización, leídos desde la perspectiva de la política para los países en vía de desarrollo; (iii) los planteamientos y desarrollos en torno a los sistemas nacionales de innovación (SNI) leídos también desde la realidad de los países latinoamericanos y sus implicaciones de política, y (iv) las capacidades de producción y divulgación científica.
+
+1.1 Cambio técnico, competitividad y política: elementos para su análisis
+
+En general, existe un amplio consenso en torno al papel del progreso técnico como motor del crecimiento y el desarrollo. En la teoría económica el análisis de esa relación se encuentra en Schumpeter (1934) y en las perspectivas neoclásica y evolutiva. Entre ellas también existe acuerdo sobre la noción del conocimiento científico como un bien público y la necesidad de políticas públicas para estimular la actividad científica, debido al largo plazo para obtener resultados y las dificultades para apropiarlos.
+
+Bien distinta es la situación en el caso de la tecnología, en razón de las diferencias en las concepciones sobre el conocimiento tecnológico y las políticas para desarrollarlo. En la tradición neoclásica, el progreso técnico tiene una fuerte incidencia en la productividad total de los factores (PTF) y ésta en el crecimiento (Solow, 1956; Swan, 1956; Griliches, 1986). Sin embargo, su concepción exógena del cambio técnico es controvertida por la
+
+llamada teoría endógena del cambio técnico (Romer, 1986 y 1990; Mankiw, Romer y Weil, 1992; Grossman y Helpman, 1991).
+
+La endogenización del cambio técnico representa un avance frente la visión exógena, por cuanto reconoce la naturaleza acumulativa y la no neutralidad del progreso tecnológico en el contexto de la función de producción. Sin embargo, ambos modelos consideran que el conocimiento incorporado en las nuevas tecnologías tiene características de bien público (Griliches, 1986; Aghion y Howitt, 1992 y 1998; Barro y Sala- I-Martín, 2003). Por ello se adhieren a la visión lineal según la cual el conocimiento generado por la investigación de base, la aplicada y las actividades tecnológicas, es accesible con relativa facilidad y bajos costos, por otros (Pavitt, 1997).
+
+Las implicaciones de esta percepción son claras: a través de actividades como la compra de nueva maquinaria y equipos (o de licencias) es posible acceder, con relativa facilidad, a los nuevos conocimientos desarrollados o, lo que es lo mismo, a las nuevas tecnologías.1 De este modo, a través de la acumulación de capital se tiene acceso inmediato y gratuito al desarrollo tecnológico.
+
+Los desarrollos teóricos —apoyados en sus análisis empíricos— alejan a la perspectiva evolutiva de esas simplificaciones. Para sus cultores, el conocimiento tecnológico es es-
+
+Frente a la noción de tecnología es útil retomar a Pavitt, “utilizaré el término tecnología para referirme tanto a los artefactos físicos como al conocimiento, encarnado en personas, para usar, desarrollar y mejorar tales artefactos” (1997, p. 191).
+
+Cuad. Adm. Bogotá (Colombia), 18 (30): 39-78, julio-diciembre de 2005
+
+POLÍTICAS Y AVANCES EN LA CIENCIA, LA TECNOLOGÍA Y LA INNOVACIÓN EN COLOMBIA 1990-2005
+
+pecífico (a las empresas, a los productos y a los procesos) y complejo; se construye y acumula gradualmente (generando trayectorias particulares de avance técnico), y tiene componentes tácitos, que dificultan su transmisión y uso por otras empresas (Nelson y Winter, 1982; Pavitt, 1997; Dosi, 1988a, 1988b y 1997).
+
+El conocimiento tecnológico se construye en la empresa a partir de lo que se sabe, y a través del uso de las tecnologías adquiridas (learning by using), de la experiencia productiva (learning by doing) y la solución de problemas (learning by solving). De esta forma se acumula gradualmente, y se despliega en rutinas que encarnan la forma normal de hacer las cosas en la firma, que dan lugar a inercias que inciden en el desarrollo futuro de sus tecnologías. Se configuran así trayectorias tecnológicas que son específicas a cada empresa y path dependents (Pavitt, 1997; Nelson y Sampat, 2001; Langlois y Robertson, 1995).
+
+Esos procesos informales de aprendizaje generan conocimientos tácitos e idiosincrásicos que, de este modo, son difícilmente codificables y transferibles a otras empresas o equipos de trabajo distintos a quienes compartieron la experiencia que los originó (Nelson y Sampat, 2001; Langlois y Robertson, 1995).
+
+La especificidad y el carácter acumulativo de las tecnologías reclaman, por otra parte, el desarrollo de actividades y capacidades tecnológicas para las empresas que las adquieren. Para hacerlas funcionar se requieren modificaciones que tornan costosa la incorporación, y a menudo adaptaciones que
+
+conllevan aprendizajes y desarrollos tecnológicos. El carácter acumulativo, por su parte, se traduce en que la búsqueda y selección de tecnologías y se hace a partir de lo que ya se sabe (Pavitt, 1997).
+
+En consecuencia, el desarrollo tecnológico endógeno, y el que es producto de la adaptación, exige de las firmas, más allá de las capacidades productivas, el desarrollo de sus capacidades tecnológicas.2 Por lo tanto, la acumulación de capital resulta insuficiente para explicar el ritmo y dirección del ámbito técnico, incluso cuando éste es adoptado.
+
+Las políticas de CTI derivadas de esos planteamientos tienen convergencias y divergencias. Los enfoques concuerdan en la necesidad de apoyar el desarrollo científico por su carácter de bien público y su contribución al desarrollo de la sociedad. También concuerdan en que la dinámica y dirección del desarrollo tecnológico son obstruidas por fallas del mercado (como información imperfecta, problemas de apropiación de los productos de la investigación/ innovación, que inciden en niveles de inversión subóptima) y por excluibilidad (por problemas de disponibilidad, accesibilidad, el costo y la capacidad para apropiarlo3), que
+
+Bell y Pavitt (1993) establecen la diferencia entre las capacidades tecnológicas y las productivas. Las primeras se refieren a los recursos y habilidades para gestionar y generar el cambio técnico, incluyendo los conocimientos, las experiencias y los vínculos institucionales; las segundas, se refieren a los bienes de capital, al conocimiento y a las destrezas laborales que sirven para producir utilizando una tecnología determinada. Para mayor detalle, especialmente en lo relacionado con la financiación de las actividades de I+D e innovación se puede ver a Becchetti y Sierra (2002).

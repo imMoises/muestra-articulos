@@ -1,0 +1,93 @@
+
+
+1. Introducci´on
+
+Uno de los pilares de la f´ısica contempor´anea es la mec´anica cu´antica, gracias a la cual se han logrado grandes avances en la comprensi´on de la naturaleza a nivel at´omico e incluso subat´omico. Por otra parte, sus aplicaciones han dado lugar a toda una revoluci´on tecnol´ogica. As´ı pues, el estudio de la f´ısica cu´antica forma parte de nuestra cultura cient´ıﬁca.
+
+Cabe recordar que la primera formulaci´on de la Mec´anica Cu´antica (ondulatoria) se bas´o en la ecuaci´on de Schr¨odinger dependiente del tiempo:
+
+iℏ∂
+
+∂tΨ = HΨ, (1)
+
+donde H representa el operador herm´ıtico que deﬁne la energ´ıa total del sistema, y la funci´on de onda Ψ es dependiente de la posici´on y el tiempo: Ψ = Ψ(⃗r, t). Para una part´ıcula libre, el hamiltoniano tiene la forma H = −(ℏ2/2m)∇2. Al aplicar el m´etodo de separaci´on de variables, es decir Ψ(⃗r, t) = φ(t)ψ(⃗r), obtenemos [9]
+
+−1
+
+2m∇2ψ = Eψ, (2)
+
+donde ahora ψ(⃗r) es funci´on s´olo de las coordenadas espaciales x, y y z. Las soluciones de la Ec. (1) son de la forma
+
+Ψ = ψ exp(−iEt/ℏ), (3)
+
+donde E es el eigenvalor correspondiente de H. Con esta expresi´on obtenemos una densidad de probabilidad positiva deﬁnida que, junto a su corriente de probabilidad, satisface una
+
+ecuaci´on de continuidad. En realidad, la condici´on H = H†
+
+y que se tenga una primera derivada temporal, nos aseguran esta propiedad.
+
+Despu´es del ´exito de la mec´anica cu´antica basada en la Ec. (2) para describir el ´atomo, se propuso obtener una ecuaci´on de onda relativista; tal ecuaci´on es conocida (en honor a Oscar Klein y Walter Gordoni), con el nombre de ecuaci´on de Klein-Gordon (K-G) y es de la formaii:
+
+(□+ m2)ψ = 0, (4)
+
+donde □= ∂µ∂µ = (∂2/∂t2) −∇2 es el llamado operador d’Alembertiano. Esta ecuaci´on es invariante relativista y se utiliza para describir part´ıculas relativistas cargadas o neutras de esp´ın cero, pero su densidad de probabilidad no es positiva deﬁnida y admite energ´ıas negativas (ver [12]); adem´as, no describe correctamente los electrones ya que estos son de esp´ın 1/2.
+
+En 1928, Dirac propuso una expresi´on relativista en la cual tanto las derivadas temporales como espaciales aparecieran a primer orden, en lugar del segundo orden en que aparecen en el operador d’Alembertiano de la Ec. (4), esperando de alguna forma resolver el problema de que la densidad de probabilidad no sea deﬁnida positiva. Para obtener una densidad de probabilidad positiva, Dirac propuso sacar la “ra´ız cuadrada” a la Ec. (4), usando objetos (matrices de Dirac) que satisfacen cierta relaci´on de anticonmutaci´on y lleg´o a la siguiente expresi´on:
+
+i∂ψ
+
+∂t = (−i⃗α · ∇+ βm)ψ, (5)
+
+la cual se puede reescribir en forma covariante:
+
+(iγµ∂µ −m)ψ = 0, (6)
+
+que es conocida como la ecuaci´on de Dirac, y donde ψ es ahora un objeto llamado espinor (de 4 componentes). M´as a´un, al hacer la sustituci´on m´ınima ∂µ 7→Dµ = ∂µ −ieAµ, es posible describir las interacciones de los electrones con los potenciales electromagn´eticos.
+
+La Ec. (6) tiene dos soluciones independientes (o cuatro, si tomamos en cuenta la orientaci´on del esp´ın): una de carga negativa que describe al electr´on y otra correspondiente a una part´ıcula con carga positiva, que ahora es llamada positr´on. Como las ´unicas part´ıculas conocidas hasta 1928 eran los electrones, los protones y los fotones, Dirac pens´o que la soluci´on de carga positiva de sus ecuaciones deb´ıa corresponder al prot´on, hasta que en 1932 Carl Anderson descubri´o, mientras estaba estudiando los rayos c´osmicos en una c´amara de niebla, que algunas trayectorias se desviaban con la misma magnitud del electr´on pero en sentido opuesto. Se hab´ıa descubierto la primera antipart´ıcula, el positr´on.
+
+En ese mismo a˜no James Chadwick demostr´o experimentalmente la existencia de los neutrones, que eran necesarios para comprender la estabilidad del n´ucleo, pero no se pod´ıa explicar c´omo es que este se manten´ıa unido. En 1935 Hideki Yukawa razon´o que deb´ıa existir otra fuerza m´as potente que la electromagn´etica que manten´ıa unidos a los protones a pesar de que estos se repelen, entonces propuso la existencia de un campo an´alogo al electromagn´etico que produc´ıa bosones con masa, responsables de la fuerza nuclear fuerte, y a partir del alcance corto de dichas interacciones predijo que su masa deb´ıa ser del orden de 150 MeV. En 1947 el f´ısico ingl´es Cecil Powell (en un experimento con rayos c´osmicos) encontr´o una part´ıcula con las propiedades predichas por Yukawa, a la cual se le denomin´o pi´on.
+
+A ﬁnales del siglo XIX, Rutherford descubri´o que el uranio emite dos tipos de radiaci´on: la radiaci´on alfa, que son n´ucleos de helio (dos protones y dos neutrones), y la radiaci´on beta, que son electrones. Posteriormente, Rutherford y Soddy demostraron que para ´atomos radiactivos con n´ucleos inestables, al emitir un electr´on (radiaci´on β), un neutr´on se convierte en un prot´on dando como resultado un ´atomo de un elemento diferente. Por otra parte, cuando un neutr´on est´a libre, este se desintegra para formar un electr´on y un prot´on (desintegraci´on β):
+
+n −→p + e−, (7)
+
+pero la suma de las energ´ıas del prot´on y el electr´on producidas por este proceso era menor que la del neutr´on. Despu´es se realizaron experimentos para neutrones en reposo y se demostr´o que las magnitudes de los momentos de los electrones emitidos ten´ıan valores distintos, pero para este proceso la ley de conservaci´on de energ´ıa-momento es
+
+2 + (Mpc4 + P 2 p c2)
+
+c2Mn = (Mec4 + P 2
+
+2 , (8)
+
+e c2)
+
+donde Mn, Me, Mp son las masas del neutr´on, electr´on y prot´on, respectivamente, y P 2
+
+e y P 2
+
+p son las magnitudes de
+
+los momentos para el electr´on y el prot´on. Cuando el neutr´on est´a en reposo,⃗Pn = 0 =⃗Pp +⃗Pe, lo cual implica que |⃗Pp| = |⃗Pe|, y entonces tenemos una soluci´on ´unica para Pe ﬁjada por las masas de las part´ıculas, esto representaba una contradicci´on con los experimentos, en los cuales se encuentra que hay una distribuci´on para la energ´ıa del electr´on. Incluso se pens´o que las leyes de conservaci´on de energ´ıa no eran v´alidas para algunos procesos entre part´ıculas, hasta que en 1930, Wolfgang Pauli sugiri´o la existencia de una nueva part´ıcula con masa cero y sin carga el´ectrica, por lo que el proceso deber´ıa ser
+
+n −→p + e−+ νe. (9)
+
+Tres a˜nos despu´es Enrico Fermi, inﬂuido por la idea de Pauli, introdujo la fuerza nuclear d´ebil para explicar este fen´omeno y propuso que el neutr´on se convierte en un prot´on y emite un bos´on cargado (W −), Fermi nombro a la nueva part´ıcula (νe) como neutrino, en el presente se denomina antineutrino del electr´on.
+
+Para describir part´ıculas y antipart´ıculas de esp´ın un medio, en 1929 Hermann Weyl propuso un par de ecuaciones acopladas que llevan su nombre y para el caso de masa cero (por ejemplo para neutrinos) las ecuaciones se desacoplan, y toman la forma:
+
+i ∂
+
+∂tφ = i−→ σ · ∇φ, (10)
+
+i ∂
+
+∂tχ = −i−→ σ · ∇χ, (11)
+
+donde φ y χ son objetos llamados espinores de Weyl izquierdo y derechoiii (de 2 componentes), respectivamente. Un a˜no antes que Weyl, Dirac las hab´ıa considerado partiendo de la version de 2 componentes en su ecuaci´on, pero Pauli (ver [10]) se neg´o a aceptarlas debido a que no son invariantes bajo paridad.
+
+En 1956, Tsung Dao Lee y Chen Ning Yang [1,2] propusieron que la paridad es una simetr´ıa de todos los procesos debidos a interacciones fuertes y electromagn´eticas, pero no lo es en procesos debidos a interacciones d´ebiles como, por ejemplo, en la desintegraci´on β. Un a˜no despu´es Chien Shiung Wu [3] y sus colaboradores consideraron la desintegraci´on β de un neutr´on del n´ucleo de cobalto 60 y demostraron experimentalmente que las interacciones d´ebiles violaban paridad: la reacci´on daba lugar a n´ucleos de n´ıquel y emisi´on de electrones y antineutrinos electr´onicos.
+
+En 1954, Chen Ning Yang y Robert Mills [4] consiguieron construir una teor´ıa de campos invariante ante una transformaci´on de tipo no abeliano. Luego, en 1957 Julian Schwinger [5] tom´o esta teor´ıa y la aplic´o a la fuerza nuclear d´ebil y a la fuerza electromagn´etica y se dio cuenta que estas fuerzas ten´ıan una magnitud similar, pero esta simetr´ıa se romp´ıa debido a que los bosones de norma (W ±) de la fuerza d´ebil tienen masa, mientras que el bos´on de norma del campo
+
+electromagn´etico (fot´on) no tiene masa. Un a˜no despu´es Sidney Bludman [6] sugiri´o que la fuerza nuclear d´ebil se pod´ıa describir mediante una teor´ıa gauge local no abeliana e introduc´ıa tres part´ıculas, W +, W −y Z0, el Z0 describe interacciones d´ebiles en las que no interviene la carga el´ectrica. Por otro lado en 1961 Sheldon Glashow [7,8], usando la teor´ıa de Bludman, gener´o un modelo que inclu´ıa un triplete de bosones vectoriales portadores de la fuerza d´ebil y un bos´on vectorial portador de la fuerza electromagn´etica; se vio que se podr´ıa combinar el singlete y el triplete de tal modo que surgir´ıa una part´ıcula neutra con masa (Z0), pero que dejar´ıa a la otra (fot´on) sin masa.

@@ -1,0 +1,93 @@
+CODE: 03.70.+k; 12.10.Dm
+
+1. Preliminares
+
+El desarrollo del modelo est´andar de la f´ısica de part´ıculas constituye un logro intelectual supremo, mediante el cual logramos descifrar las interacciones fundamentales del universo a escalas microsc´opicas y subnucleares. De igual manera, estos profundos conceptos te´oricos impulsaron transformaciones t´ecnicas sin precedentes. Por lo tanto, comprender esta intrincada disciplina cu´antica resulta ser un pilar esencial dentro del actual acervo cient´ıﬁco.
+
+Es imprescindible mencionar que el planteamiento inicial de la Teor´ıa Cu´antica (no relativista) tom´o como fundamento el postulado de Schr¨odinger din´amico:
+
+iℏ∂
+
+∂tΦ = HΦ, (1)
+
+aqu´ı H denota aquel operador autoadjunto que rige la din´amica global del modelo, y el estado de campo Φ est´a supeditado a la geometr´ıa y su evoluci´on: Φ = Φ(⃗r, t). Para un corp´usculo aislado, el generador adopta la forma H = −(ℏ2/2m)∇2. Tras invocar el recurso de factorizaci´on de par´ametros, a saber Φ(⃗r, t) = ξ(t)ϕ(⃗r),llegamos [9]
+
+−1
+
+2m∇2ϕ = Eϕ, (2)
+
+donde ahora ϕ(⃗r) es dependiente ´unicamente de las tres dimensiones cartesianas x, y, z. Las respuestas de la f´ormula (1) son de la clase
+
+Φ = ϕ exp(−iEt/ℏ), (3)
+
+siendo E el autovalor caracter´ıstico para H. Mediante dicha relaci´on derivamos una magnitud de localizaci´on estrictamente afirmativa la cual, sumada a su ﬂujo de conservaci´on, cumple la
+
+identidad de continuidad. En rigor, la restricci´on H = H†
+
+y que se aplique una primera variaci´on temporal, nos garantizan este rasgo.
+
+Tras el triunfo de la teor´ıa at´omica sustentada en la Ec. (2) al modelar la materia, se busc´o deducir una formulaci´on de campo puramente relativista; dicha estructura es nombrada (como tributo a Oscar Klein y Walter Gordon), bajo la designaci´on de modelo de Klein-Gordon (K-G) y exhibe esta estructurab:
+
+(□+ m2)ϕ = 0, (4)
+
+aqu´ı □= ∂µ∂µ = (∂2/∂t2) −∇2 representa al conocido tensor d’Alembertiano. Dicho postulado es covariante lorentziano y se aplica para representar corp´usculos cinem´aticos ionizados o nulos con momento cero, aunque su distribuci´on de certidumbre no resulta positiva estricta e incluye magnitudes adversas (consultar [12]); asimismo, falla detallando precisamente los fermiones dado que aqu´ellos poseen momento intr´ınseco 1/2.
+
+Hacia 1928, Dirac plante´o una f´ormula invariante en la que tanto las gradientes cronol´ogicas como geom´etricas surgieran en primer grado, en sustituci´on del segundo grado con el cual emergen en el laplaciano d’Alembertiano de la f´ormula (4), anhelando de cierto modo solventar el conﬂicto de que la amplitud de existencia no sea estrictamente aﬁrmativa. Para conseguir una m´etrica de presencia favorable, Dirac sugiri´o extraer la “ra´ız principal” de la f´ormula (4), empleando tensores (matrices de esp´ın) que cumplen cierta ´algebra de anticonmutaci´on y arrib´o a la in´edita relaci´on:
+
+i∂ϕ
+
+∂t = (−i⃗α · ∇+ βm)ϕ, (5)
+
+la misma se logra redactar de manera contravariante:
+
+(iγµ∂µ −m)ϕ = 0, (6)
+
+que se denomina como el postulado de Dirac, y aqu´ı ϕ es ahora un ente designado biespinor (de 4 elementos). M´as todav´ıa, al efectuar el acoplamiento m´ınimo ∂µ 7→Dµ = ∂µ −ieAµ, resulta factible detallar las din´amicas de los leptones con ciertos campos electromagn´eticos.
+
+El postulado (6) admite dos variantes aut´onomas (o cuatro, si valoramos la proyecci´on del momento): una con polaridad negativa que simboliza al electr´on y otra alusiva a un corp´usculo con polaridad afirmativa, que hoy es denominado positr´on. Dado que las ´unicas fracciones detectadas hacia 1928 eran los electrones, los nucleones y los fotones, Dirac intuy´o que la variante de polaridad afirmativa de sus c´alculos deb´ıa identiﬁcarse al prot´on, hasta que durante 1932 Carl Andersonobserv´o, mientras se encontraba analizando las lluvias c´osmicas en una c´amara de expansi´on, que ciertas estelas se curvaban con la id´entica proporci´on del electr´onpero en direcci´on inversa. Se hab´ıa revelado la inicial antipart´ıcula, el positr´on.
+
+Por ese id´entico ciclo James Chadwick comprob´o emp´ıricamente la presencia de los neutrones, que resultaban imperativos para justiﬁcar la solidez del n´ucleo, aunque no se lograba detallar c´omo es que ´este se conservaba cohesionado. Hacia 1935 Hideki Yukawa dedujo que requer´ıa operar otra interacci´on m´as intensa que la electromagn´etica que conservara atados a los protones a despecho de que ´estos se rechazan, por ende postul´o la presencia de un medio similar al electromagn´etico que generar´ıamesones con inercia, causantes de la interacci´on nuclear vigorosa, y a ra´ız del radio breve de tales conexiones estim´o que su inercia deb´ıa rondar el valor de 150 MeV. Para 1947 el acad´emico brit´anico Cecil Powell (mediante un ensayo midiendo rastros c´osmicos) detect´o una entidad con las caracter´ısticas anticipadas por Yukawa, a lacual se le llam´o pi´on.
+
+Hacia t´erminos del siglo XIX, Rutherford detect´o que el uranio irradia dos clases de emanaci´on: la emanaci´on alfa, que son centros de helio (dos protones y dos neutrones), y la emanaci´on beta, que son electrones. Ulteriormente, Rutherford y Soddy probaron que para is´otopos radiactivos con centros inestables, al expulsar un electr´on (emanaci´on β), un neutr´on se transforma en un prot´on generando como consecuencia un ´atomo de un material distinto. Por otro lado, cuando un neutr´on permanece suelto, ´este se degrada para constituir un electr´on y un prot´on (decaimiento β):
+
+n −→p + e−, (7)
+
+aunque la adici´on de las cinem´aticas del prot´on y el electr´on generadas por dicho suceso era inferior que la del neutr´on. Luego se efectuaron ensayos para neutrones en estancamiento y se comprob´o que las dimensiones de los impulsos de los electrones expulsados pose´ıan registros variados, aunque para dicho suceso la regla de preservaci´on de masa-energ´ıa es
+
+2 + (Mpc4 + P 2 p c2)
+
+c2Mn = (Mec4 + P 2
+
+2 , (8)
+
+e c2)
+
+donde Mn, Me, Mp son las inercias del neutr´on, electr´on y prot´on, respectivamente, y P 2
+
+e y P 2
+
+p son las dimensiones de
+
+los impulsos para el electr´on y el prot´on. Cuando el neutr´on reposa aislado,⃗Pn = 0 =⃗Pp +⃗Pe, lo cual devela que |⃗Pp| = |⃗Pe|, y as´ı tenemos una derivaci´on ´unica para Pe r´ıgida por las inercias de las fracciones, ello representaba una paradoja con los experimentos, en los cuales se halla que existe una dispersi´on para la cinem´atica del electr´on. Incluso se asumi´o que las normas de conservaci´on de cinem´atica no resultaban v´alidas para ciertos fen´omenos entre corp´usculos, hasta que en 1930, Wolfgang Pauli propuso la concurrencia de una in´edita part´ıcula con inercia nula y sin polaridad el´ectrica, por lo que el fen´omeno deber´ıa de ser
+
+n −→p + e−+ νe. (9)
+
+Tres a˜nos luego Enrico Fermi, motivado por el concepto de Pauli, postul´o la interacci´on nuclear suave para detallar dicho fen´omeno y sugiri´o que el neutr´on se transforma en un prot´on e irradia un bos´on ionizado (W −), Fermi bautiz´o a la in´edita part´ıcula (νe) como neutrino, y hoy d´ıa se llama antineutrino del electr´on.
+
+Al modelar fracciones y antipart´ıculas con momento un medio, hacia 1929 Hermann Weyl plante´o un d´uo de f´ormulas vinculadas que portan su apellido y para el escenario de inercia nula (como ocurre con neutrinos) las f´ormulas se separan, y adoptan la apariencia:
+
+i ∂
+
+∂tφ = i−→ σ · ∇φ, (10)
+
+i ∂
+
+∂tχ = −i−→ σ · ∇χ, (11)
+
+aqu´ı φ y χ resultan entes designados espinores de Weyl zurdo y diestroiii (de 2 componentes), correspondientemente. Un ciclo previo a Weyl, Dirac las hab´ıa examinado partiendo de la variante de 2 fragmentos en su f´ormula, aunque Pauli (revisar [10]) se rehus´o a admitirlas gracias a que no resultan ser invariantes bajo paridad.
+
+Hacia 1956, Tsung Dao Lee y Chen Ning Yang [1,2] plantearon que la paridad constituye una simetr´ıa de todos los fen´omenos causados por conexiones vigorosas y electromagn´eticas, aunque no lo es en fen´omenos causados por conexiones suaves como, por ejemplo, en la degradaci´on β. Un ciclo posterior Chien Shiung Wu [3] y sus investigadores analizaron la degradaci´on β de un neutr´on del centro de cobalto 60 y evidenciaron emp´ıricamente que las conexiones suaves quebrantaban paridad: la interacci´on daba origen a los centros de n´ıquel y expulsi´on de electrones y antineutrinos electr´onicos.
+
+Para 1954, Chen Ning Yang y Robert Mills [4] lograron formular una din´amica de campos sim´etrica frente a una rotaci´on de car´acter no abeliano. Despu´es, hacia 1957 Julian Schwinger [5] adapt´o este esquema y lo emple´o en la interacci´on nuclear suave y en la interacci´on electromagn´etica y se percat´o que dichas interacciones pose´ıan unaintensidad parecida, aunque dicha simetr´ıa se fracturaba puesto que los bosones de gauge (W ±) de la interacci´on suave poseen una masa, en tanto que el bos´on de gauge del campo
+
+electromagn´etico (fot´on) no posee masa. Luego Sidney Bludman [6] propuso que la interacci´on nuclear suave se lograba modelar mediante un esquema gauge local no abeliano e incorporaba tres corp´usculos, W +, W −y Z0, el Z0 representa conexiones suaves en las cuales no participa la tensi´on el´ectrica. Para 1961 Sheldon Glashow [7,8], aplicando el esquema de Bludman, formul´o un paradigma que abarcaba un triplete de bosones tensoriales conductores de la interacci´on suave y un bos´on tensorial conductor de la interacci´on electromagn´etica; se observ´o que se lograba integrar el singlete y el triplete de tal forma que nacer´ıa una entidad neutra con inercia (Z0), y que mantendr´ıa a la restante (fot´on) sin inercia.

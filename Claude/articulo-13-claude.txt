@@ -1,0 +1,75 @@
+PACS: 03.65.Pm; 12.15.-y
+
+Introducción
+
+La teoría cuántica constituye uno de los edificios conceptuales más sólidos de la ciencia moderna. Gracias a ella ha sido posible explicar fenómenos que la física clásica no lograba describir, y sus consecuencias prácticas han transformado por completo la tecnología actual. Por esta razón, conocer sus fundamentos resulta indispensable dentro de la formación científica.
+
+Conviene señalar que la versión ondulatoria de la teoría se apoya en la ecuación de evolución temporal propuesta por Erwin Schrödinger:
+
+iℏ ∂Ψ/∂t = HΨ, (1)
+
+en la cual H es el hamiltoniano, un operador autoadjunto asociado a la energía total, mientras que la función de onda depende de las coordenadas y del tiempo, Ψ = Ψ(⃗r, t). Si la partícula no está sometida a ningún potencial, el hamiltoniano se reduce al término cinético H = −(ℏ²/2m)∇². Suponiendo que la función de onda se factoriza como el producto de una parte temporal y otra espacial, Ψ(⃗r, t) = φ(t)ψ(⃗r), se llega a la ecuación estacionaria [9]
+
+−(1/2m)∇²ψ = Eψ, (2)
+
+en la que la función ψ(⃗r) depende exclusivamente de las variables x, y y z. Las soluciones estacionarias de la Ec. (1) adoptan entonces la forma
+
+Ψ = ψ exp(−iEt/ℏ), (3)
+
+siendo E el valor propio de H. A partir de esta solución se construye una densidad de probabilidad que nunca toma valores negativos y que, junto con la corriente correspondiente, cumple una
+
+ecuación de continuidad. Esta propiedad se debe, en última instancia, a la hermiticidad H = H†
+
+y a que la ecuación contiene únicamente una derivada de primer orden respecto al tiempo.
+
+Una vez comprobada la eficacia de la Ec. (2) para explicar el espectro del hidrógeno, surgió la necesidad de una ecuación de onda compatible con la relatividad especial; la primera propuesta en este sentido recibe el nombre de ecuación de Klein-Gordon (K-G), en reconocimiento a Oskar Klein y Walter Gordoni, y se escribe comoii:
+
+(□ + m²)ψ = 0, (4)
+
+donde □ = ∂µ∂µ = (∂²/∂t²) − ∇² denota el operador d’Alembertiano. Aunque esta expresión respeta la invariancia de Lorentz y resulta adecuada para partículas de espín nulo, con o sin carga, presenta inconvenientes serios: la densidad de probabilidad que se deriva de ella puede ser negativa y aparecen estados de energía negativa (véase [12]); asimismo, no sirve para el electrón, cuyo espín es 1/2.
+
+En 1928 Paul Dirac buscó una ecuación relativista que fuera de primer orden tanto en el tiempo como en las coordenadas espaciales, a diferencia de la Ec. (4), donde ambas derivadas son de segundo orden, con la intención de recuperar una densidad de probabilidad no negativa. Su estrategia consistió en extraer la “raíz cuadrada” del operador de Klein-Gordon, introduciendo un conjunto de matrices que obedecen reglas de anticonmutación, con lo cual obtuvo:
+
+i ∂ψ/∂t = (−i⃗α · ∇ + βm)ψ, (5)
+
+expresión que admite la siguiente escritura covariante:
+
+(iγµ∂µ − m)ψ = 0, (6)
+
+conocida hoy como ecuación de Dirac, en la que ψ ya no es una función escalar sino un espinor de cuatro componentes. Además, mediante el acoplamiento mínimo ∂µ ↦ Dµ = ∂µ − ieAµ, la ecuación permite incorporar la interacción del electrón con el campo electromagnético.
+
+La Ec. (6) posee dos clases de soluciones linealmente independientes (cuatro, si se distinguen los dos estados de espín): unas corresponden a partículas de carga negativa, los electrones, y otras a partículas de la misma masa y carga positiva, que actualmente se denominan positrones. Dado que hacia 1928 solo se conocían el electrón, el protón y el fotón, Dirac supuso inicialmente que las soluciones de carga positiva describían al protón. Esta interpretación se abandonó en 1932, cuando Carl Anderson, al estudiar rayos cósmicos en una cámara de niebla, observó trazas cuya curvatura era idéntica a la del electrón pero en dirección contraria. De este modo se identificó por primera vez una antipartícula, el positrón.
+
+Ese mismo año James Chadwick confirmó mediante experimentos la existencia del neutrón, partícula indispensable para entender la composición del núcleo; sin embargo, seguía sin aclararse qué mecanismo impedía que este se desintegrara. En 1935 Hideki Yukawa sostuvo que debía existir una interacción más intensa que la electromagnética, capaz de vencer la repulsión entre los protones, y postuló un campo semejante al electromagnético cuyos cuantos serían bosones masivos, mediadores de la interacción nuclear fuerte; a partir del corto alcance observado de esta fuerza estimó que la masa de dichos bosones debía rondar los 150 MeV. En 1947 el físico británico Cecil Powell, estudiando la radiación cósmica, detectó una partícula que reunía las características previstas por Yukawa y que recibió el nombre de pion.
+
+Hacia el final del siglo XIX, Rutherford había identificado dos componentes en la radiación emitida por el uranio: la radiación alfa, formada por núcleos de helio (dos protones y dos neutrones), y la radiación beta, constituida por electrones. Más adelante, Rutherford y Soddy establecieron que en los átomos radiactivos con núcleos inestables la emisión de un electrón (radiación β) va acompañada de la transformación de un neutrón en un protón, de manera que el átomo resultante corresponde a otro elemento químico. Asimismo, un neutrón aislado se desintegra en un protón y un electrón (desintegración β):
+
+n −→ p + e−, (7)
+
+no obstante, la energía total de los productos de esta reacción resultaba inferior a la del neutrón inicial. Experimentos posteriores realizados con neutrones en reposo mostraron que los electrones emitidos poseían momentos de magnitudes diversas, mientras que, de acuerdo con la conservación de la energía y del momento, debería cumplirse
+
+Mn c² = (Me² c⁴ + Pe² c²)^1/2 + (Mp² c⁴ + Pp² c²)^1/2, (8)
+
+donde Mn, Me y Mp designan las masas del neutrón, del electrón y del protón, en ese orden, y Pe y Pp
+
+son los módulos de
+
+los momentos del electrón y del protón. Si el neutrón se encuentra en reposo, ⃗Pn = 0 = ⃗Pp + ⃗Pe, de donde |⃗Pp| = |⃗Pe|, y por tanto la energía del electrón queda determinada de manera única por las masas involucradas, en abierto desacuerdo con las mediciones, que revelaban un espectro continuo de energías para el electrón. Llegó a plantearse que la conservación de la energía podría fallar en ciertos procesos subatómicos, hasta que en 1930 Wolfgang Pauli propuso la existencia de una partícula adicional, eléctricamente neutra y de masa nula, de modo que la reacción debía escribirse como
+
+n −→ p + e− + νe. (9)
+
+En 1933 Enrico Fermi, partiendo de la hipótesis de Pauli, formuló una teoría de la interacción nuclear débil para dar cuenta de este fenómeno, según la cual el neutrón se transforma en protón emitiendo un bosón cargado (W−); Fermi bautizó a la nueva partícula (νe) con el nombre de neutrino, aunque hoy se la identifica como el antineutrino electrónico.
+
+Con el fin de describir partículas y antipartículas de espín 1/2, Hermann Weyl formuló en 1929 un sistema de dos ecuaciones acopladas que llevan su nombre; cuando la masa es nula, como se suponía para los neutrinos, dichas ecuaciones se separan y adoptan la forma:
+
+i ∂φ/∂t = i ⃗σ · ∇φ, (10)
+
+i ∂χ/∂t = −i ⃗σ · ∇χ, (11)
+
+donde φ y χ son los denominados espinores de Weyl de quiralidad izquierda y derechaiii (de dos componentes), respectivamente. Dirac ya las había examinado antes en una versión de dos componentes de su ecuación, pero Pauli (véase [10]) las descartó por no conservar la simetría de paridad.
+
+En 1956 Tsung Dao Lee y Chen Ning Yang [1,2] plantearon que, si bien la paridad se conserva en los procesos gobernados por las interacciones fuerte y electromagnética, podría no conservarse en aquellos regidos por la interacción débil, como sucede en la desintegración β. Al año siguiente, Chien Shiung Wu [3] y su equipo estudiaron la desintegración β de núcleos de cobalto 60 polarizados y comprobaron experimentalmente la violación de la paridad en las interacciones débiles: el proceso producía núcleos de níquel junto con electrones y antineutrinos electrónicos.
+
+En 1954 Chen Ning Yang y Robert Mills [4] habían logrado formular una teoría de campos invariante bajo transformaciones de norma no abelianas. Posteriormente, en 1957, Julian Schwinger [5] aplicó estas ideas a las interacciones débil y electromagnética y advirtió que ambas podían tener intensidades comparables, aunque la simetría entre ellas se veía rota porque los bosones de norma (W±) asociados a la interacción débil son masivos, en tanto que el bosón de norma del campo
+
+electromagnético (fotón) carece de masa. En 1958 Sidney Bludman [6] propuso describir la interacción débil mediante una teoría de norma local no abeliana que contenía tres partículas, W+, W− y Z0, correspondiendo esta última a procesos débiles sin intercambio de carga eléctrica. Más tarde, en 1961, Sheldon Glashow [7,8], basándose en el trabajo de Bludman, construyó un modelo con un triplete de bosones vectoriales mediadores de la interacción débil y un bosón vectorial mediador de la interacción electromagnética; observó que era posible mezclar el singlete con el triplete de forma que apareciera una partícula neutra masiva (Z0), mientras que la otra combinación (fotón) permanecía sin masa.

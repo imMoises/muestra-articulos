@@ -1,0 +1,53 @@
+Frente a la negociación de nuevos compromisos de integración —Tratado de Libre Comercio con Estados Unidos, Comunidad Andina (CAN), Mercosur—, la presión creciente sobre los recursos naturales y la persistencia del desempleo, la exclusión y la concentración del ingreso durante los años noventa, resulta impostergable que el país haga del saber y de la capacidad de aprender el eje de su inserción internacional y su bienestar. Con ese propósito, este documento recoge, integra y amplía hallazgos de diversas investigaciones adelantadas por los autores acerca de la trayectoria de la ciencia, la tecnología y la innovación (CTI) en Colombia. Pretende identificar los logros más significativos alcanzados desde 1990 en este campo y examinar en qué medida obedecen a las políticas diseñadas para promoverlos.
+
+Para cumplir dicho propósito, el trabajo se organiza en cinco partes. En la primera se construye un referente conceptual para examinar los vínculos entre la política, el comportamiento de la CTI y su aporte a la competitividad y el bienestar. En la segunda se reseñan las transformaciones institucionales y los instrumentos de política adoptados en el período. En la tercera se estudia el comportamiento de un conjunto de indicadores referidos a: la inversión y los recursos humanos destinados a fortalecer las capacidades científicas y tecnológicas; los productos generados en la investigación y en la innovación empresarial, y el grado de interacción entre universidades, empresas y Estado. En la cuarta se sintetizan las principales tendencias observadas en el período. Finalmente, a la luz de las debilidades identificadas, se sugieren orientaciones para abordar los retos más apremiantes de la política nacional en este terreno.
+
+Con este trabajo se quiere aportar, aunque sea modestamente, a superar la escasez de estudios sobre la dinámica de la CTI y los resultados de las políticas que la orientan en Colombia. Se espera, asimismo, enriquecer el debate sobre la propuesta Visión Colombia II Centenario (DNP, 2005) y sobre la agenda de largo plazo del Sistema Nacional de Ciencia y Tecnología (SNCyT). El punto de partida es una convicción: la CTI sólo podrá convertirse en un factor decisivo de la competitividad y del desarrollo si su orientación es fruto de una deliberación amplia y bien informada entre los actores que la impulsan, y si se articula coherentemente con las dinámicas económicas, sociales, culturales, ambientales y políticas del país.
+
+Conviene advertir desde ahora el enfoque, el alcance y las restricciones del trabajo: dado su carácter, no aspira a la exhaustividad ni a convertirse en una evaluación formal de la política de CTI, entendida como la medición sistemática de su pertinencia, cobertura, eficiencia, resultados e impactos (Jaramillo, Lugones y Salazar, 2001; Chaparro, 1998); se ocupa, en cambio, de un número limitado pero representativo de indicadores que permiten trazar un panorama general de la evolución de la CTI en el país y de aquellos logros que pueden asociarse con mayor claridad a las acciones públicas emprendidas para fomentarla.
+
+1. Referentes conceptuales para examinar la evolución de la CTI
+
+Para precisar el enfoque que orienta este trabajo, a continuación se presenta una síntesis de los principales aportes teóricos y empíricos que estudian los nexos entre la generación y acumulación de conoci-
+
+Rev. Ges. Tec. Bogotá (Colombia), 9 (17): 41-80, julio-diciembre 2005
+
+JULIÁN ARANGO MESA, CLAUDIA ROCÍO BELTRÁN
+
+miento y la acción pública en materia de CTI, agrupados en cuatro vertientes: (i) los vínculos entre progreso técnico, productividad y crecimiento, y las recomendaciones de política que de allí se desprenden; (ii) las lecciones derivadas de los procesos de industrialización tardía del Sudeste asiático y de otros países de industrialización reciente, interpretadas en función de las economías en desarrollo; (iii) el enfoque de los sistemas nacionales de innovación (SNI), examinado a la luz de las particularidades latinoamericanas y de sus consecuencias normativas, y (iv) los factores que determinan la generación y difusión del conocimiento científico.
+
+1.1 Progreso técnico, crecimiento y políticas públicas: algunos elementos analíticos
+
+Pocas proposiciones gozan hoy de tanta aceptación como la que asigna al cambio tecnológico un lugar central en la explicación del crecimiento económico. Esa idea, presente en los clásicos, adquiere relieve con Schumpeter (1942) y es retomada por las corrientes neoclásica y evolucionista. Ambas coinciden en reconocer a la ciencia como un bien público y en justificar la intervención estatal en su financiación, dada la incertidumbre de sus resultados y su escasa apropiabilidad privada (Arrow, 1962).
+
+Muy diferente es el panorama cuando se trata de la tecnología, pues allí divergen las interpretaciones acerca de su naturaleza y de los mecanismos para promoverla. Para el enfoque neoclásico, el cambio técnico explica buena parte del residuo no atribuible a la acumulación de capital y trabajo (Solow, 1957; Denison, 1962; Abramovitz, 1956). No obstante, el supuesto según el cual dicho cambio proviene de fuera del sistema económico es cuestionado por la
+
+denominada nueva teoría del crecimiento o teoría del crecimiento endógeno (Lucas, 1988; Romer, 1990; Aghion y Howitt, 1992; Jones, 1995).
+
+La incorporación del cambio técnico como variable explicada constituye un progreso respecto a la perspectiva tradicional, pues admite que la acumulación de conocimiento obedece a decisiones deliberadas de inversión y genera rendimientos crecientes. Con todo, ambas aproximaciones conservan el supuesto de que las nuevas técnicas se difunden sin mayores obstáculos una vez creadas, pues comparten la concepción del conocimiento como información codificada y disponible (Arrow, 1962; Rosenberg, 1982). De allí que suscriban, explícita o implícitamente, el modelo secuencial de innovación, que va de la ciencia básica a la investigación aplicada y de ésta al desarrollo y la comercialización (Kline y Rosenberg, 1986).
+
+Las consecuencias de esta interpretación son evidentes: la adquisición de bienes de capital, de patentes o de asistencia técnica bastaría para que las empresas incorporen sin esfuerzo los avances generados en otros lugares, es decir, las tecnologías más recientes disponibles en el mercado.1 La modernización tecnológica sería, en consecuencia, un subproducto automático de la inversión, sin requerir esfuerzos adicionales de aprendizaje.
+
+El enfoque evolucionista, respaldado por abundante evidencia empírica y estudios sectoriales, se distancia de tales supuestos. Desde esta perspectiva, el conocimiento tecnológico es lo-
+
+En este artículo, la tecnología se entiende como el conjunto de equipos, procedimientos y saberes, tanto codificados como incorporados en las personas y en las organizaciones, que permiten producir, adaptar y perfeccionar bienes y servicios (Dosi, 1988; Freeman, 1987).
+
+Rev. Ges. Tec. Bogotá (Colombia), 9 (17): 41-80, julio-diciembre 2005
+
+INSTITUCIONES, POLÍTICAS Y RESULTADOS DE LA CIENCIA, LA TECNOLOGÍA E INNOVACIÓN EN COLOMBIA, 1990-2005
+
+calizado (en sectores, organizaciones y procedimientos concretos), acumulativo y complejo; avanza de manera incremental siguiendo senderos propios de cada firma y de cada sector, y posee dimensiones no codificadas que entorpecen su apropiación y uso por agentes diferentes de quienes lo generaron (Freeman, 1987; Rosenberg, 1982; Metcalfe, 1995).
+
+Las capacidades tecnológicas de la empresa se forman a partir de su acervo previo de conocimientos y se enriquecen mediante la interacción con proveedores y clientes (learning by interacting), la búsqueda deliberada de soluciones y la realización de I+D, que además eleva su capacidad para reconocer, asimilar y aprovechar conocimientos externos (Cohen y Levinthal, 1990; Lundvall, 1992). Este proceso es gradual y se cristaliza en procedimientos habituales que orientan las decisiones de la organización y condicionan sus opciones técnicas futuras. Surgen así trayectorias singulares, dependientes de la historia de cada firma (Dosi, 1988; Metcalfe, 1995; Teece y Pisano, 1994).
+
+Tales aprendizajes, al surgir de la práctica, producen saberes difíciles de expresar en manuales o planos y, por tanto, de trasladar a otras organizaciones o grupos ajenos al contexto en el que se originaron (Polanyi, 1966; Cohen y Levinthal, 1990; Lundvall, 1992).
+
+Por otro lado, el carácter localizado y acumulativo de la tecnología exige que las firmas que la incorporan desplieguen esfuerzos deliberados y capacidades propias. Su puesta en marcha demanda ajustes técnicos que elevan los costos de adopción y, con frecuencia, modificaciones que
+
+suponen procesos de aprendizaje y de mejora técnica. La acumulación, a su vez, implica que la exploración y elección de nuevas alternativas se realiza sobre la base del conocimiento previamente adquirido (Rosenberg, 1982).
+
+Así, tanto la generación interna de tecnología como su adaptación demandan de las empresas, además de capacidades de producción, capacidades tecnológicas propias.2 De ello se deduce que la sola inversión en maquinaria y equipo no basta para explicar la intensidad y orientación del cambio técnico, ni siquiera cuando la tecnología es importada.
+
+Las orientaciones de política derivadas de estas aproximaciones presentan tanto coincidencias como desacuerdos. Hay acuerdo sobre la conveniencia de financiar la investigación científica, por su condición de bien público y sus beneficios sociales. Se comparte, igualmente, que el ritmo y la orientación del cambio técnico se ven afectados por fallas de mercado (asimetrías de información, dificultades para apropiar los beneficios de la innovación y riesgos que inducen una inversión insuficiente) y por barreras de acceso (asociadas a la disponibilidad, el precio y la capacidad de absorción del conocimiento3), que
+
+Lall (1992) distingue entre las capacidades de producción y las capacidades tecnológicas. Las primeras comprenden los equipos, la organización y las habilidades necesarias para operar eficientemente una técnica dada; las segundas aluden a los conocimientos, experiencias y relaciones que permiten seleccionar, asimilar, adaptar, mejorar y crear tecnologías. Bell (1984) señala, además, que estas últimas no se adquieren automáticamente con la inversión productiva, sino mediante esfuerzos deliberados de aprendizaje. Sobre los mecanismos de financiamiento de la I+D y la innovación en América Latina puede consultarse a Katz (1987).
