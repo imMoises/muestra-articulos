@@ -34,9 +34,7 @@ a. Respecto de los datos: fiabilidad, respeto por la privacidad, empleo
 
 de métodos apropiados para conseguir los datos, posibles prejuicios, derechos y autoría de los datos e implicaciones económicas.
 
-b. Respecto de la actuación del periodista: transparencia, objetivi-
-
-dad, responsabilidad, exactitud, posibles prejuicios, autoría y derechos del software o técnicas empleadas e implicaciones éticas.
+b. Respecto de la actuación del periodista: transparencia, objetividad, responsabilidad, exactitud, posibles prejuicios, autoría y derechos del software o técnicas empleadas e implicaciones éticas.
 
 2. En la elaboración de la información: control y comprobación del software y de las técnicas empleadas.
 
