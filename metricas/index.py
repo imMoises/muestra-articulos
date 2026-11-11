@@ -19,6 +19,13 @@ print(f"✅ Datos cargados correctamente. Total de registros: {len(df)}\n")
 # Lista de los detectores evaluados (Asegúrate de incluir los 5 de tu tesis si ya los tienes)
 detectores = ["GPTZERO", "ZeroGPT", "Grammarly"]
 
+# Los veredictos con valor 2 ("texto mixto") se consideran equivalentes a 1 (IA),
+# según la regla de reclasificación de la metodología.
+for detector in detectores:
+    col_veredicto = f"Veredicto_{detector}"
+    if col_veredicto in df.columns:
+        df[col_veredicto] = df[col_veredicto].replace(2, 1)
+
 # ==========================================
 # 2. CÁLCULO DE MÉTRICAS DE PRECISIÓN GLOBAL
 # ==========================================
