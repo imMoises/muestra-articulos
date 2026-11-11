@@ -1,1 +1,11 @@
+# Entorno virtual de Python
 .venv/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Archivos de sistema de Windows y macOS
+desktop.ini
+Thumbs.db
+.DS_Store

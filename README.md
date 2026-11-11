@@ -157,3 +157,73 @@ También se puede indicar otra plantilla:
 ```bash
 python generar_prompt.py salida/articulo-1_intro.txt --plantilla otra-plantilla.xml
 ```
+
+## Cálculo de métricas (versionado)
+
+El script `metricas/index.py` calcula las métricas de precisión (matriz de
+confusión, FPR, sensibilidad, precisión, F1, especificidad, exactitud) y de
+confiabilidad (Kappa de Fleiss, PAU, Q de Cochran global y por subcorpus,
+sensibilidad por modelo generador).
+
+### Dónde están los datos
+
+- `metricas/datos/matriz_veredictos.csv`: copia de la hoja
+  `Matriz_de_veredictos` de Google Sheets. **Es la fuente que usa el cálculo** y
+  se versiona en Git, de modo que cada resultado queda amarrado a los datos
+  exactos que lo produjeron.
+- `metricas/resultados/`: salida del cálculo (`metricas_globales.csv`,
+  `sensibilidad_por_modelo.csv`, `confiabilidad.csv` y `resultados.md`).
+  `resultados.md` registra la fecha, la huella SHA-256 de los datos y el commit
+  del código.
+
+### Cómo ejecutarlo
+
+```bash
+# Descargar la versión actual de la hoja, validarla y calcular
+python metricas/index.py --actualizar
+
+# Calcular con la copia que ya está en el repositorio
+python metricas/index.py
+```
+
+Regla aplicada: el veredicto 2 («texto mixto» de GPTZero y ZeroGPT) cuenta
+como 1 (IA), según la sección «Reclasificación de textos mixtos» de la
+metodología. Para Grammarly, una probabilidad mayor a 40 % es IA (1).
+
+### Validación
+
+Antes de calcular, el script revisa la matriz y se detiene si:
+
+- no tiene 120 filas, los ID están vacíos o repetidos, o la división no es
+  90 sintéticos / 30 humanos;
+- algún veredicto es distinto de 0, 1 o 2;
+- algún veredicto de Grammarly no coincide con el umbral del 40 %.
+
+Para el último caso se puede forzar el cálculo con
+`--permitir-inconsistencias`, pero los resultados quedan marcados como
+**no válidos para reporte**. También se muestran advertencias (probabilidades no
+numéricas, código 2 en Grammarly, textos con probabilidades idénticas).
+
+La validación no puede comparar contra las capturas: si un valor se digitó mal
+en la hoja pero es coherente consigo mismo, hay que revisarlo contra la
+evidencia en `evidencias/`.
+
+### Flujo de trabajo
+
+1. Corregir la hoja en Google Sheets.
+2. Ejecutar `python metricas/index.py --actualizar`.
+3. Revisar `metricas/resultados/resultados.md`.
+4. Guardar datos, código y resultados en el mismo commit:
+
+   ```bash
+   git add metricas/datos metricas/resultados metricas/index.py
+   git commit -m "Resultados: <qué cambió>"
+   ```
+
+5. Cuando las cifras sean las que van al documento, marcar la versión y
+   citarla en el anexo:
+
+   ```bash
+   git tag -a v1.0-jurado -m "Cifras reportadas en el documento"
+   git push --follow-tags
+   ```

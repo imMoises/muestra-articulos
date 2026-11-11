@@ -1,0 +1,4 @@
+Detector,TP,TN,FP,FN,FPR (Falsos Pos.),Sensibilidad (Recall),Precisión,F1-Score
+GPTZERO,37,30,0,53,0.0000,0.4111,1.0000,0.5827
+ZeroGPT,24,18,12,66,0.4000,0.2667,0.6667,0.3810
+Grammarly,33,30,0,57,0.0000,0.3667,1.0000,0.5366

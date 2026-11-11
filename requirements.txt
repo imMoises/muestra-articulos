@@ -1,7 +1,6 @@
-# Dependencias de extraer_intro.py
+# Dependencias del proyecto
 # Instalar con: pip install -r requirements.txt
-pymupdf>=1.24
-pandas
-numpy
-statsmodels
-scikit-learn
+pymupdf>=1.24   # extraer_intro.py
+pandas          # metricas/index.py
+numpy           # metricas/index.py
+statsmodels     # metricas/index.py (Kappa de Fleiss, Q de Cochran, intervalos de confianza)
